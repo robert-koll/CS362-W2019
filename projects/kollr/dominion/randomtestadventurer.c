@@ -6,6 +6,7 @@
 #include "rngs.h"
 #include <limits.h>
 #include <stdlib.h>
+#include <time.h>
 
 //unit test for adventurer card
 int success = 1;
@@ -48,3 +49,17 @@ void test(int i1, int i2) {
 }
 
 
+int main() {
+	srand(time(NULL));
+	printf("Testing...");
+	for (int i = 0; i < 100; i++) {
+		test(rand() % 10, rand() % 10);
+	}
+	
+	if (success)
+		printf("success!\n");
+	else
+		printf("failed!\n");
+
+	return 0;
+}
