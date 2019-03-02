@@ -8,7 +8,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-//unit test for adventurer card
+//random test for adventurer card
 int success = 1;
 
 void asserttrue(int statement) {
