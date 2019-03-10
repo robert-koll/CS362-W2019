@@ -1,0 +1,1189 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A256	dominion/rngs.c	43;"	d	file:
+A256	projects/kollr/dominion/rngs.c	43;"	d	file:
+A256	projects/roberwen/dominion/rngs.c	43;"	d	file:
+ACTION_PHASE	dominion/interface.h	45;"	d
+ACTION_PHASE	projects/kollr/dominion/interface.h	45;"	d
+ACTION_PHASE	projects/roberwen/dominion/interface.h	45;"	d
+ADVENTURER_COST	dominion/interface.h	61;"	d
+ADVENTURER_COST	projects/kollr/dominion/interface.h	61;"	d
+ADVENTURER_COST	projects/roberwen/dominion/interface.h	61;"	d
+ALLOW_2_SLASHES	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public static final long ALLOW_2_SLASHES = 1 << 1;$/;"	f	class:UrlValidator
+ALLOW_2_SLASHES	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public static final long ALLOW_2_SLASHES = 1 << 1;$/;"	f	class:UrlValidator
+ALLOW_2_SLASHES	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public static final long ALLOW_2_SLASHES = 1 << 1;$/;"	f	class:UrlValidator
+ALLOW_2_SLASHES	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public static final long ALLOW_2_SLASHES = 1 << 1;$/;"	f	class:UrlValidator
+ALLOW_ALL_SCHEMES	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public static final long ALLOW_ALL_SCHEMES = 1 << 0;$/;"	f	class:UrlValidator
+ALLOW_ALL_SCHEMES	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public static final long ALLOW_ALL_SCHEMES = 1 << 0;$/;"	f	class:UrlValidator
+ALLOW_ALL_SCHEMES	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public static final long ALLOW_ALL_SCHEMES = 1 << 0;$/;"	f	class:UrlValidator
+ALLOW_ALL_SCHEMES	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public static final long ALLOW_ALL_SCHEMES = 1 << 0;$/;"	f	class:UrlValidator
+ALLOW_LOCAL_URLS	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public static final long ALLOW_LOCAL_URLS = 1 << 3; \/\/ CHECKSTYLE IGNORE MagicNumber$/;"	f	class:UrlValidator
+ALLOW_LOCAL_URLS	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public static final long ALLOW_LOCAL_URLS = 1 << 3; \/\/ CHECKSTYLE IGNORE MagicNumber$/;"	f	class:UrlValidator
+ALLOW_LOCAL_URLS	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public static final long ALLOW_LOCAL_URLS = 1 << 3; \/\/ CHECKSTYLE IGNORE MagicNumber$/;"	f	class:UrlValidator
+ALLOW_LOCAL_URLS	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public static final long ALLOW_LOCAL_URLS = 1 << 3; \/\/ CHECKSTYLE IGNORE MagicNumber$/;"	f	class:UrlValidator
+AMBASSADOR_COST	dominion/interface.h	78;"	d
+AMBASSADOR_COST	projects/kollr/dominion/interface.h	78;"	d
+AMBASSADOR_COST	projects/roberwen/dominion/interface.h	78;"	d
+AUTHORITY_CHARS_REGEX	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String AUTHORITY_CHARS_REGEX = "\\\\p{Alnum}\\\\-\\\\."; \/\/ allows for IPV4 but not IPV6$/;"	f	class:UrlValidator	file:
+AUTHORITY_CHARS_REGEX	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final String AUTHORITY_CHARS_REGEX = "\\\\p{Alnum}\\\\-\\\\."; \/\/ allows for IPV4 but not IPV6$/;"	f	class:UrlValidator	file:
+AUTHORITY_CHARS_REGEX	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String AUTHORITY_CHARS_REGEX = "\\\\p{Alnum}\\\\-\\\\."; \/\/ allows for IPV4 but not IPV6$/;"	f	class:UrlValidator	file:
+AUTHORITY_CHARS_REGEX	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final String AUTHORITY_CHARS_REGEX = "\\\\p{Alnum}\\\\-\\\\."; \/\/ allows for IPV4 but not IPV6$/;"	f	class:UrlValidator	file:
+AUTHORITY_PATTERN	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final Pattern AUTHORITY_PATTERN = Pattern.compile(AUTHORITY_REGEX);$/;"	f	class:UrlValidator	file:
+AUTHORITY_PATTERN	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final Pattern AUTHORITY_PATTERN = Pattern.compile(AUTHORITY_REGEX);$/;"	f	class:UrlValidator	file:
+AUTHORITY_PATTERN	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final Pattern AUTHORITY_PATTERN = Pattern.compile(AUTHORITY_REGEX);$/;"	f	class:UrlValidator	file:
+AUTHORITY_PATTERN	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final Pattern AUTHORITY_PATTERN = Pattern.compile(AUTHORITY_REGEX);$/;"	f	class:UrlValidator	file:
+AUTHORITY_REGEX	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String AUTHORITY_REGEX =$/;"	f	class:UrlValidator	file:
+AUTHORITY_REGEX	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final String AUTHORITY_REGEX =$/;"	f	class:UrlValidator	file:
+AUTHORITY_REGEX	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String AUTHORITY_REGEX =$/;"	f	class:UrlValidator	file:
+AUTHORITY_REGEX	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final String AUTHORITY_REGEX =$/;"	f	class:UrlValidator	file:
+ArrayType	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public enum ArrayType {$/;"	g	class:DomainValidator
+ArrayType	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public enum ArrayType {$/;"	g	class:DomainValidator
+ArrayType	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public enum ArrayType {$/;"	g	class:DomainValidator
+ArrayType	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public enum ArrayType {$/;"	g	class:DomainValidator
+BARON_COST	dominion/interface.h	71;"	d
+BARON_COST	projects/kollr/dominion/interface.h	71;"	d
+BARON_COST	projects/roberwen/dominion/interface.h	71;"	d
+BASE_16	FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    private static final int BASE_16 = 16;$/;"	f	class:InetAddressValidator	file:
+BASE_16	FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    private static final int BASE_16 = 16;$/;"	f	class:InetAddressValidator	file:
+BASE_16	projects/kollr/FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    private static final int BASE_16 = 16;$/;"	f	class:InetAddressValidator	file:
+BASE_16	projects/kollr/FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    private static final int BASE_16 = 16;$/;"	f	class:InetAddressValidator	file:
+BUY_PHASE	dominion/interface.h	46;"	d
+BUY_PHASE	projects/kollr/dominion/interface.h	46;"	d
+BUY_PHASE	projects/roberwen/dominion/interface.h	46;"	d
+CARD	dominion/dominion.h	/^enum CARD$/;"	g
+CARD	projects/kollr/dominion/dominion.h	/^enum CARD$/;"	g
+CARD	projects/roberwen/dominion/dominion.h	/^enum CARD$/;"	g
+CFLAGS	dominion/Makefile	/^CFLAGS= -Wall -fpic -coverage -lm -std=c99$/;"	m
+CFLAGS	projects/kollr/dominion/Makefile	/^CFLAGS= -Wall -fpic -coverage -lm -std=c99$/;"	m
+CFLAGS	projects/roberwen/dominion/Makefile	/^CFLAGS= -Wall -fpic -coverage -lm -std=c99$/;"	m
+CHECK	dominion/rngs.c	41;"	d	file:
+CHECK	projects/kollr/dominion/rngs.c	41;"	d	file:
+CHECK	projects/roberwen/dominion/rngs.c	41;"	d	file:
+CLEANUP_PHASE	dominion/interface.h	47;"	d
+CLEANUP_PHASE	projects/kollr/dominion/interface.h	47;"	d
+CLEANUP_PHASE	projects/roberwen/dominion/interface.h	47;"	d
+COMPARE	dominion/interface.h	32;"	d
+COMPARE	projects/kollr/dominion/interface.h	32;"	d
+COMPARE	projects/roberwen/dominion/interface.h	32;"	d
+COPPER_COST	dominion/interface.h	54;"	d
+COPPER_COST	projects/kollr/dominion/interface.h	54;"	d
+COPPER_COST	projects/roberwen/dominion/interface.h	54;"	d
+COPPER_VALUE	dominion/interface.h	49;"	d
+COPPER_VALUE	projects/kollr/dominion/interface.h	49;"	d
+COPPER_VALUE	projects/roberwen/dominion/interface.h	49;"	d
+COUNCIL_ROOM_COST	dominion/interface.h	62;"	d
+COUNCIL_ROOM_COST	projects/kollr/dominion/interface.h	62;"	d
+COUNCIL_ROOM_COST	projects/roberwen/dominion/interface.h	62;"	d
+COUNTRY_CODE_MINUS	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        COUNTRY_CODE_MINUS,$/;"	e	enum:DomainValidator.ArrayType	file:
+COUNTRY_CODE_MINUS	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        COUNTRY_CODE_MINUS,$/;"	e	enum:DomainValidator.ArrayType	file:
+COUNTRY_CODE_MINUS	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        COUNTRY_CODE_MINUS,$/;"	e	enum:DomainValidator.ArrayType	file:
+COUNTRY_CODE_MINUS	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        COUNTRY_CODE_MINUS,$/;"	e	enum:DomainValidator.ArrayType	file:
+COUNTRY_CODE_PLUS	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        COUNTRY_CODE_PLUS,$/;"	e	enum:DomainValidator.ArrayType	file:
+COUNTRY_CODE_PLUS	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        COUNTRY_CODE_PLUS,$/;"	e	enum:DomainValidator.ArrayType	file:
+COUNTRY_CODE_PLUS	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        COUNTRY_CODE_PLUS,$/;"	e	enum:DomainValidator.ArrayType	file:
+COUNTRY_CODE_PLUS	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        COUNTRY_CODE_PLUS,$/;"	e	enum:DomainValidator.ArrayType	file:
+COUNTRY_CODE_RO	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        COUNTRY_CODE_RO,$/;"	e	enum:DomainValidator.ArrayType	file:
+COUNTRY_CODE_RO	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        COUNTRY_CODE_RO,$/;"	e	enum:DomainValidator.ArrayType	file:
+COUNTRY_CODE_RO	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        COUNTRY_CODE_RO,$/;"	e	enum:DomainValidator.ArrayType	file:
+COUNTRY_CODE_RO	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        COUNTRY_CODE_RO,$/;"	e	enum:DomainValidator.ArrayType	file:
+COUNTRY_CODE_TLDS	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final String[] COUNTRY_CODE_TLDS = new String[] {$/;"	f	class:DomainValidator	file:
+COUNTRY_CODE_TLDS	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final String[] COUNTRY_CODE_TLDS = new String[] {$/;"	f	class:DomainValidator	file:
+COUNTRY_CODE_TLDS	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final String[] COUNTRY_CODE_TLDS = new String[] {$/;"	f	class:DomainValidator	file:
+COUNTRY_CODE_TLDS	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final String[] COUNTRY_CODE_TLDS = new String[] {$/;"	f	class:DomainValidator	file:
+CURSE_COST	dominion/interface.h	60;"	d
+CURSE_COST	projects/kollr/dominion/interface.h	60;"	d
+CURSE_COST	projects/roberwen/dominion/interface.h	60;"	d
+CUTPURSE_COST	dominion/interface.h	79;"	d
+CUTPURSE_COST	projects/kollr/dominion/interface.h	79;"	d
+CUTPURSE_COST	projects/roberwen/dominion/interface.h	79;"	d
+DEBUG	dominion/badTestDrawCard.c	8;"	d	file:
+DEBUG	dominion/betterTestDrawCard.c	8;"	d	file:
+DEBUG	dominion/dominion.h	11;"	d
+DEBUG	dominion/supplyTest.c	8;"	d	file:
+DEBUG	dominion/testBuyCard.c	8;"	d	file:
+DEBUG	dominion/testDrawCard.c	8;"	d	file:
+DEBUG	projects/kollr/dominion/badTestDrawCard.c	8;"	d	file:
+DEBUG	projects/kollr/dominion/betterTestDrawCard.c	8;"	d	file:
+DEBUG	projects/kollr/dominion/dominion.h	11;"	d
+DEBUG	projects/kollr/dominion/supplyTest.c	8;"	d	file:
+DEBUG	projects/kollr/dominion/testBuyCard.c	8;"	d	file:
+DEBUG	projects/kollr/dominion/testDrawCard.c	8;"	d	file:
+DEBUG	projects/roberwen/dominion/badTestDrawCard.c	8;"	d	file:
+DEBUG	projects/roberwen/dominion/betterTestDrawCard.c	8;"	d	file:
+DEBUG	projects/roberwen/dominion/dominion.h	11;"	d
+DEBUG	projects/roberwen/dominion/supplyTest.c	8;"	d	file:
+DEBUG	projects/roberwen/dominion/testBuyCard.c	8;"	d	file:
+DEBUG	projects/roberwen/dominion/testDrawCard.c	8;"	d	file:
+DEFAULT	dominion/rngs.c	44;"	d	file:
+DEFAULT	projects/kollr/dominion/rngs.c	44;"	d	file:
+DEFAULT	projects/roberwen/dominion/rngs.c	44;"	d	file:
+DEFAULT_SCHEMES	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String[] DEFAULT_SCHEMES = {"http", "https", "ftp"}; \/\/ Must be lower-case$/;"	f	class:UrlValidator	file:
+DEFAULT_SCHEMES	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^   private static final String[] DEFAULT_SCHEMES = {"http", "https", "ftp"}; \/\/ Must be lower-case$/;"	f	class:UrlValidator	file:
+DEFAULT_SCHEMES	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String[] DEFAULT_SCHEMES = {"http", "https", "ftp"}; \/\/ Must be lower-case$/;"	f	class:UrlValidator	file:
+DEFAULT_SCHEMES	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^   private static final String[] DEFAULT_SCHEMES = {"http", "https", "ftp"}; \/\/ Must be lower-case$/;"	f	class:UrlValidator	file:
+DEFAULT_URL_VALIDATOR	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final UrlValidator DEFAULT_URL_VALIDATOR = new UrlValidator();$/;"	f	class:UrlValidator	file:
+DEFAULT_URL_VALIDATOR	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final UrlValidator DEFAULT_URL_VALIDATOR = new UrlValidator();$/;"	f	class:UrlValidator	file:
+DEFAULT_URL_VALIDATOR	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final UrlValidator DEFAULT_URL_VALIDATOR = new UrlValidator();$/;"	f	class:UrlValidator	file:
+DEFAULT_URL_VALIDATOR	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final UrlValidator DEFAULT_URL_VALIDATOR = new UrlValidator();$/;"	f	class:UrlValidator	file:
+DOMAIN_LABEL_REGEX	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final String DOMAIN_LABEL_REGEX = "\\\\p{Alnum}(?>[\\\\p{Alnum}-]{0,61}\\\\p{Alnum})?";$/;"	f	class:DomainValidator	file:
+DOMAIN_LABEL_REGEX	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final String DOMAIN_LABEL_REGEX = "\\\\p{Alnum}(?>[\\\\p{Alnum}-]{0,61}\\\\p{Alnum})?";$/;"	f	class:DomainValidator	file:
+DOMAIN_LABEL_REGEX	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final String DOMAIN_LABEL_REGEX = "\\\\p{Alnum}(?>[\\\\p{Alnum}-]{0,61}\\\\p{Alnum})?";$/;"	f	class:DomainValidator	file:
+DOMAIN_LABEL_REGEX	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final String DOMAIN_LABEL_REGEX = "\\\\p{Alnum}(?>[\\\\p{Alnum}-]{0,61}\\\\p{Alnum})?";$/;"	f	class:DomainValidator	file:
+DOMAIN_NAME_REGEX	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final String DOMAIN_NAME_REGEX =$/;"	f	class:DomainValidator	file:
+DOMAIN_NAME_REGEX	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final String DOMAIN_NAME_REGEX =$/;"	f	class:DomainValidator	file:
+DOMAIN_NAME_REGEX	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final String DOMAIN_NAME_REGEX =$/;"	f	class:DomainValidator	file:
+DOMAIN_NAME_REGEX	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final String DOMAIN_NAME_REGEX =$/;"	f	class:DomainValidator	file:
+DOMAIN_VALIDATOR	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final DomainValidator DOMAIN_VALIDATOR = new DomainValidator(false);$/;"	f	class:DomainValidator	file:
+DOMAIN_VALIDATOR	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final DomainValidator DOMAIN_VALIDATOR = new DomainValidator(false);$/;"	f	class:DomainValidator	file:
+DOMAIN_VALIDATOR	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final DomainValidator DOMAIN_VALIDATOR = new DomainValidator(false);$/;"	f	class:DomainValidator	file:
+DOMAIN_VALIDATOR	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final DomainValidator DOMAIN_VALIDATOR = new DomainValidator(false);$/;"	f	class:DomainValidator	file:
+DOMAIN_VALIDATOR_WITH_LOCAL	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final DomainValidator DOMAIN_VALIDATOR_WITH_LOCAL = new DomainValidator(true);$/;"	f	class:DomainValidator	file:
+DOMAIN_VALIDATOR_WITH_LOCAL	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final DomainValidator DOMAIN_VALIDATOR_WITH_LOCAL = new DomainValidator(true);$/;"	f	class:DomainValidator	file:
+DOMAIN_VALIDATOR_WITH_LOCAL	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final DomainValidator DOMAIN_VALIDATOR_WITH_LOCAL = new DomainValidator(true);$/;"	f	class:DomainValidator	file:
+DOMAIN_VALIDATOR_WITH_LOCAL	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final DomainValidator DOMAIN_VALIDATOR_WITH_LOCAL = new DomainValidator(true);$/;"	f	class:DomainValidator	file:
+DUCHY_COST	dominion/interface.h	58;"	d
+DUCHY_COST	projects/kollr/dominion/interface.h	58;"	d
+DUCHY_COST	projects/roberwen/dominion/interface.h	58;"	d
+DomainValidator	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private DomainValidator(boolean allowLocal) {$/;"	m	class:DomainValidator	file:
+DomainValidator	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^public class DomainValidator implements Serializable {$/;"	c
+DomainValidator	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private DomainValidator(boolean allowLocal) {$/;"	m	class:DomainValidator	file:
+DomainValidator	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^public class DomainValidator implements Serializable {$/;"	c
+DomainValidator	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private DomainValidator(boolean allowLocal) {$/;"	m	class:DomainValidator	file:
+DomainValidator	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^public class DomainValidator implements Serializable {$/;"	c
+DomainValidator	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private DomainValidator(boolean allowLocal) {$/;"	m	class:DomainValidator	file:
+DomainValidator	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^public class DomainValidator implements Serializable {$/;"	c
+EMBARGO_COST	dominion/interface.h	80;"	d
+EMBARGO_COST	projects/kollr/dominion/interface.h	80;"	d
+EMBARGO_COST	projects/roberwen/dominion/interface.h	80;"	d
+EMPTY_STRING_ARRAY	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final String[] EMPTY_STRING_ARRAY = new String[0];$/;"	f	class:DomainValidator	file:
+EMPTY_STRING_ARRAY	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final String[] EMPTY_STRING_ARRAY = new String[0];$/;"	f	class:DomainValidator	file:
+EMPTY_STRING_ARRAY	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final String[] EMPTY_STRING_ARRAY = new String[0];$/;"	f	class:DomainValidator	file:
+EMPTY_STRING_ARRAY	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final String[] EMPTY_STRING_ARRAY = new String[0];$/;"	f	class:DomainValidator	file:
+ESTATE_COST	dominion/interface.h	57;"	d
+ESTATE_COST	projects/kollr/dominion/interface.h	57;"	d
+ESTATE_COST	projects/roberwen/dominion/interface.h	57;"	d
+FAILURE	dominion/interface.h	38;"	d
+FAILURE	projects/kollr/dominion/interface.h	38;"	d
+FAILURE	projects/roberwen/dominion/interface.h	38;"	d
+FALSE	dominion/interface.h	35;"	d
+FALSE	projects/kollr/dominion/interface.h	35;"	d
+FALSE	projects/roberwen/dominion/interface.h	35;"	d
+FEAST_COST	dominion/interface.h	63;"	d
+FEAST_COST	projects/kollr/dominion/interface.h	63;"	d
+FEAST_COST	projects/roberwen/dominion/interface.h	63;"	d
+GARDEN_COST	dominion/interface.h	64;"	d
+GARDEN_COST	projects/kollr/dominion/interface.h	64;"	d
+GARDEN_COST	projects/roberwen/dominion/interface.h	64;"	d
+GENERIC_MINUS	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        GENERIC_MINUS,$/;"	e	enum:DomainValidator.ArrayType	file:
+GENERIC_MINUS	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        GENERIC_MINUS,$/;"	e	enum:DomainValidator.ArrayType	file:
+GENERIC_MINUS	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        GENERIC_MINUS,$/;"	e	enum:DomainValidator.ArrayType	file:
+GENERIC_MINUS	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        GENERIC_MINUS,$/;"	e	enum:DomainValidator.ArrayType	file:
+GENERIC_PLUS	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        GENERIC_PLUS,$/;"	e	enum:DomainValidator.ArrayType	file:
+GENERIC_PLUS	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        GENERIC_PLUS,$/;"	e	enum:DomainValidator.ArrayType	file:
+GENERIC_PLUS	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        GENERIC_PLUS,$/;"	e	enum:DomainValidator.ArrayType	file:
+GENERIC_PLUS	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        GENERIC_PLUS,$/;"	e	enum:DomainValidator.ArrayType	file:
+GENERIC_RO	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        GENERIC_RO,$/;"	e	enum:DomainValidator.ArrayType	file:
+GENERIC_RO	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        GENERIC_RO,$/;"	e	enum:DomainValidator.ArrayType	file:
+GENERIC_RO	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        GENERIC_RO,$/;"	e	enum:DomainValidator.ArrayType	file:
+GENERIC_RO	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        GENERIC_RO,$/;"	e	enum:DomainValidator.ArrayType	file:
+GENERIC_TLDS	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final String[] GENERIC_TLDS = new String[] {$/;"	f	class:DomainValidator	file:
+GENERIC_TLDS	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final String[] GENERIC_TLDS = new String[] {$/;"	f	class:DomainValidator	file:
+GENERIC_TLDS	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final String[] GENERIC_TLDS = new String[] {$/;"	f	class:DomainValidator	file:
+GENERIC_TLDS	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final String[] GENERIC_TLDS = new String[] {$/;"	f	class:DomainValidator	file:
+GOLD_COST	dominion/interface.h	56;"	d
+GOLD_COST	projects/kollr/dominion/interface.h	56;"	d
+GOLD_COST	projects/roberwen/dominion/interface.h	56;"	d
+GOLD_VALUE	dominion/interface.h	51;"	d
+GOLD_VALUE	projects/kollr/dominion/interface.h	51;"	d
+GOLD_VALUE	projects/roberwen/dominion/interface.h	51;"	d
+GREAT_HALL_COST	dominion/interface.h	72;"	d
+GREAT_HALL_COST	projects/kollr/dominion/interface.h	72;"	d
+GREAT_HALL_COST	projects/roberwen/dominion/interface.h	72;"	d
+GetSeed	dominion/rngs.c	/^   void GetSeed(long *x)$/;"	f
+GetSeed	projects/kollr/dominion/rngs.c	/^   void GetSeed(long *x)$/;"	f
+GetSeed	projects/roberwen/dominion/rngs.c	/^   void GetSeed(long *x)$/;"	f
+HANDSIZE	dominion/interface.h	30;"	d
+HANDSIZE	projects/kollr/dominion/interface.h	30;"	d
+HANDSIZE	projects/roberwen/dominion/interface.h	30;"	d
+IDNBUGHOLDER	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static class IDNBUGHOLDER {$/;"	c	class:DomainValidator
+IDNBUGHOLDER	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static class IDNBUGHOLDER {$/;"	c	class:DomainValidator
+IDNBUGHOLDER	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static class IDNBUGHOLDER {$/;"	c	class:DomainValidator
+IDNBUGHOLDER	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static class IDNBUGHOLDER {$/;"	c	class:DomainValidator
+IDN_TOASCII_PRESERVES_TRAILING_DOTS	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        private static final boolean IDN_TOASCII_PRESERVES_TRAILING_DOTS = keepsTrailingDot();$/;"	f	class:DomainValidator.IDNBUGHOLDER	file:
+IDN_TOASCII_PRESERVES_TRAILING_DOTS	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        private static final boolean IDN_TOASCII_PRESERVES_TRAILING_DOTS = keepsTrailingDot();$/;"	f	class:DomainValidator.IDNBUGHOLDER	file:
+IDN_TOASCII_PRESERVES_TRAILING_DOTS	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        private static final boolean IDN_TOASCII_PRESERVES_TRAILING_DOTS = keepsTrailingDot();$/;"	f	class:DomainValidator.IDNBUGHOLDER	file:
+IDN_TOASCII_PRESERVES_TRAILING_DOTS	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        private static final boolean IDN_TOASCII_PRESERVES_TRAILING_DOTS = keepsTrailingDot();$/;"	f	class:DomainValidator.IDNBUGHOLDER	file:
+INFRASTRUCTURE_RO	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        INFRASTRUCTURE_RO,$/;"	e	enum:DomainValidator.ArrayType	file:
+INFRASTRUCTURE_RO	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        INFRASTRUCTURE_RO,$/;"	e	enum:DomainValidator.ArrayType	file:
+INFRASTRUCTURE_RO	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        INFRASTRUCTURE_RO,$/;"	e	enum:DomainValidator.ArrayType	file:
+INFRASTRUCTURE_RO	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        INFRASTRUCTURE_RO,$/;"	e	enum:DomainValidator.ArrayType	file:
+INFRASTRUCTURE_TLDS	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final String[] INFRASTRUCTURE_TLDS = new String[] {$/;"	f	class:DomainValidator	file:
+INFRASTRUCTURE_TLDS	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final String[] INFRASTRUCTURE_TLDS = new String[] {$/;"	f	class:DomainValidator	file:
+INFRASTRUCTURE_TLDS	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final String[] INFRASTRUCTURE_TLDS = new String[] {$/;"	f	class:DomainValidator	file:
+INFRASTRUCTURE_TLDS	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final String[] INFRASTRUCTURE_TLDS = new String[] {$/;"	f	class:DomainValidator	file:
+IPV4_MAX_OCTET_VALUE	FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    private static final int IPV4_MAX_OCTET_VALUE = 255;$/;"	f	class:InetAddressValidator	file:
+IPV4_MAX_OCTET_VALUE	FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    private static final int IPV4_MAX_OCTET_VALUE = 255;$/;"	f	class:InetAddressValidator	file:
+IPV4_MAX_OCTET_VALUE	projects/kollr/FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    private static final int IPV4_MAX_OCTET_VALUE = 255;$/;"	f	class:InetAddressValidator	file:
+IPV4_MAX_OCTET_VALUE	projects/kollr/FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    private static final int IPV4_MAX_OCTET_VALUE = 255;$/;"	f	class:InetAddressValidator	file:
+IPV4_REGEX	FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    private static final String IPV4_REGEX =$/;"	f	class:InetAddressValidator	file:
+IPV4_REGEX	FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    private static final String IPV4_REGEX =$/;"	f	class:InetAddressValidator	file:
+IPV4_REGEX	projects/kollr/FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    private static final String IPV4_REGEX =$/;"	f	class:InetAddressValidator	file:
+IPV4_REGEX	projects/kollr/FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    private static final String IPV4_REGEX =$/;"	f	class:InetAddressValidator	file:
+IPV6_MAX_HEX_DIGITS_PER_GROUP	FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    private static final int IPV6_MAX_HEX_DIGITS_PER_GROUP = 4;$/;"	f	class:InetAddressValidator	file:
+IPV6_MAX_HEX_DIGITS_PER_GROUP	FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    private static final int IPV6_MAX_HEX_DIGITS_PER_GROUP = 4;$/;"	f	class:InetAddressValidator	file:
+IPV6_MAX_HEX_DIGITS_PER_GROUP	projects/kollr/FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    private static final int IPV6_MAX_HEX_DIGITS_PER_GROUP = 4;$/;"	f	class:InetAddressValidator	file:
+IPV6_MAX_HEX_DIGITS_PER_GROUP	projects/kollr/FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    private static final int IPV6_MAX_HEX_DIGITS_PER_GROUP = 4;$/;"	f	class:InetAddressValidator	file:
+IPV6_MAX_HEX_GROUPS	FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    private static final int IPV6_MAX_HEX_GROUPS = 8;$/;"	f	class:InetAddressValidator	file:
+IPV6_MAX_HEX_GROUPS	FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    private static final int IPV6_MAX_HEX_GROUPS = 8;$/;"	f	class:InetAddressValidator	file:
+IPV6_MAX_HEX_GROUPS	projects/kollr/FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    private static final int IPV6_MAX_HEX_GROUPS = 8;$/;"	f	class:InetAddressValidator	file:
+IPV6_MAX_HEX_GROUPS	projects/kollr/FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    private static final int IPV6_MAX_HEX_GROUPS = 8;$/;"	f	class:InetAddressValidator	file:
+IPV6_REGEX	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String IPV6_REGEX = "[0-9a-fA-F:]+"; \/\/ do this as separate match because : could cause ambiguity with port prefix$/;"	f	class:UrlValidator	file:
+IPV6_REGEX	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final String IPV6_REGEX = "[0-9a-fA-F:]+"; \/\/ do this as separate match because : could cause ambiguity with port prefix$/;"	f	class:UrlValidator	file:
+IPV6_REGEX	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String IPV6_REGEX = "[0-9a-fA-F:]+"; \/\/ do this as separate match because : could cause ambiguity with port prefix$/;"	f	class:UrlValidator	file:
+IPV6_REGEX	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final String IPV6_REGEX = "[0-9a-fA-F:]+"; \/\/ do this as separate match because : could cause ambiguity with port prefix$/;"	f	class:UrlValidator	file:
+InetAddressValidator	FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^public class InetAddressValidator implements Serializable {$/;"	c
+InetAddressValidator	FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^public class InetAddressValidator implements Serializable {$/;"	c
+InetAddressValidator	projects/kollr/FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^public class InetAddressValidator implements Serializable {$/;"	c
+InetAddressValidator	projects/kollr/FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^public class InetAddressValidator implements Serializable {$/;"	c
+LOCAL_RO	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        LOCAL_RO$/;"	e	enum:DomainValidator.ArrayType	file:
+LOCAL_RO	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        LOCAL_RO$/;"	e	enum:DomainValidator.ArrayType	file:
+LOCAL_RO	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        LOCAL_RO$/;"	e	enum:DomainValidator.ArrayType	file:
+LOCAL_RO	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        LOCAL_RO$/;"	e	enum:DomainValidator.ArrayType	file:
+LOCAL_TLDS	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final String[] LOCAL_TLDS = new String[] {$/;"	f	class:DomainValidator	file:
+LOCAL_TLDS	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final String[] LOCAL_TLDS = new String[] {$/;"	f	class:DomainValidator	file:
+LOCAL_TLDS	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final String[] LOCAL_TLDS = new String[] {$/;"	f	class:DomainValidator	file:
+LOCAL_TLDS	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final String[] LOCAL_TLDS = new String[] {$/;"	f	class:DomainValidator	file:
+MATCH	dominion/interface.h	40;"	d
+MATCH	projects/kollr/dominion/interface.h	40;"	d
+MATCH	projects/roberwen/dominion/interface.h	40;"	d
+MAX_DECK	dominion/dominion.h	7;"	d
+MAX_DECK	projects/kollr/dominion/dominion.h	7;"	d
+MAX_DECK	projects/roberwen/dominion/dominion.h	7;"	d
+MAX_DOMAIN_LENGTH	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final int MAX_DOMAIN_LENGTH = 253;$/;"	f	class:DomainValidator	file:
+MAX_DOMAIN_LENGTH	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final int MAX_DOMAIN_LENGTH = 253;$/;"	f	class:DomainValidator	file:
+MAX_DOMAIN_LENGTH	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final int MAX_DOMAIN_LENGTH = 253;$/;"	f	class:DomainValidator	file:
+MAX_DOMAIN_LENGTH	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final int MAX_DOMAIN_LENGTH = 253;$/;"	f	class:DomainValidator	file:
+MAX_HAND	dominion/dominion.h	6;"	d
+MAX_HAND	projects/kollr/dominion/dominion.h	6;"	d
+MAX_HAND	projects/roberwen/dominion/dominion.h	6;"	d
+MAX_PLAYERS	dominion/dominion.h	9;"	d
+MAX_PLAYERS	projects/kollr/dominion/dominion.h	9;"	d
+MAX_PLAYERS	projects/roberwen/dominion/dominion.h	9;"	d
+MAX_STRING_LENGTH	dominion/interface.h	33;"	d
+MAX_STRING_LENGTH	projects/kollr/dominion/interface.h	33;"	d
+MAX_STRING_LENGTH	projects/roberwen/dominion/interface.h	33;"	d
+MAX_UNSIGNED_16_BIT_INT	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int MAX_UNSIGNED_16_BIT_INT = 0xFFFF; \/\/ port max$/;"	f	class:UrlValidator	file:
+MAX_UNSIGNED_16_BIT_INT	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int MAX_UNSIGNED_16_BIT_INT = 0xFFFF; \/\/ port max$/;"	f	class:UrlValidator	file:
+MAX_UNSIGNED_16_BIT_INT	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int MAX_UNSIGNED_16_BIT_INT = 0xFFFF; \/\/ port max$/;"	f	class:UrlValidator	file:
+MAX_UNSIGNED_16_BIT_INT	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int MAX_UNSIGNED_16_BIT_INT = 0xFFFF; \/\/ port max$/;"	f	class:UrlValidator	file:
+MAX_UNSIGNED_SHORT	FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    private static final int MAX_UNSIGNED_SHORT = 0xffff;$/;"	f	class:InetAddressValidator	file:
+MAX_UNSIGNED_SHORT	FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    private static final int MAX_UNSIGNED_SHORT = 0xffff;$/;"	f	class:InetAddressValidator	file:
+MAX_UNSIGNED_SHORT	projects/kollr/FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    private static final int MAX_UNSIGNED_SHORT = 0xffff;$/;"	f	class:InetAddressValidator	file:
+MAX_UNSIGNED_SHORT	projects/kollr/FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    private static final int MAX_UNSIGNED_SHORT = 0xffff;$/;"	f	class:InetAddressValidator	file:
+MINE_COST	dominion/interface.h	65;"	d
+MINE_COST	projects/kollr/dominion/interface.h	65;"	d
+MINE_COST	projects/roberwen/dominion/interface.h	65;"	d
+MINION_COST	dominion/interface.h	73;"	d
+MINION_COST	projects/kollr/dominion/interface.h	73;"	d
+MINION_COST	projects/roberwen/dominion/interface.h	73;"	d
+MODULUS	dominion/rngs.c	39;"	d	file:
+MODULUS	projects/kollr/dominion/rngs.c	39;"	d	file:
+MODULUS	projects/roberwen/dominion/rngs.c	39;"	d	file:
+MONEYLENDER_COST	dominion/interface.h	66;"	d
+MONEYLENDER_COST	projects/kollr/dominion/interface.h	66;"	d
+MONEYLENDER_COST	projects/roberwen/dominion/interface.h	66;"	d
+MULTIPLIER	dominion/rngs.c	40;"	d	file:
+MULTIPLIER	projects/kollr/dominion/rngs.c	40;"	d	file:
+MULTIPLIER	projects/roberwen/dominion/rngs.c	40;"	d	file:
+NOISY_TEST	dominion/badTestDrawCard.c	9;"	d	file:
+NOISY_TEST	dominion/betterTestDrawCard.c	9;"	d	file:
+NOISY_TEST	dominion/supplyTest.c	9;"	d	file:
+NOISY_TEST	dominion/testBuyCard.c	9;"	d	file:
+NOISY_TEST	dominion/testDrawCard.c	9;"	d	file:
+NOISY_TEST	projects/kollr/dominion/badTestDrawCard.c	9;"	d	file:
+NOISY_TEST	projects/kollr/dominion/betterTestDrawCard.c	9;"	d	file:
+NOISY_TEST	projects/kollr/dominion/supplyTest.c	9;"	d	file:
+NOISY_TEST	projects/kollr/dominion/testBuyCard.c	9;"	d	file:
+NOISY_TEST	projects/kollr/dominion/testDrawCard.c	9;"	d	file:
+NOISY_TEST	projects/roberwen/dominion/badTestDrawCard.c	9;"	d	file:
+NOISY_TEST	projects/roberwen/dominion/betterTestDrawCard.c	9;"	d	file:
+NOISY_TEST	projects/roberwen/dominion/supplyTest.c	9;"	d	file:
+NOISY_TEST	projects/roberwen/dominion/testBuyCard.c	9;"	d	file:
+NOISY_TEST	projects/roberwen/dominion/testDrawCard.c	9;"	d	file:
+NOT_WINNER	dominion/interface.h	42;"	d
+NOT_WINNER	projects/kollr/dominion/interface.h	42;"	d
+NOT_WINNER	projects/roberwen/dominion/interface.h	42;"	d
+NO_FRAGMENTS	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public static final long NO_FRAGMENTS = 1 << 2;$/;"	f	class:UrlValidator
+NO_FRAGMENTS	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public static final long NO_FRAGMENTS = 1 << 2;$/;"	f	class:UrlValidator
+NO_FRAGMENTS	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public static final long NO_FRAGMENTS = 1 << 2;$/;"	f	class:UrlValidator
+NO_FRAGMENTS	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public static final long NO_FRAGMENTS = 1 << 2;$/;"	f	class:UrlValidator
+NUM_COPPER	dominion/interface.h	24;"	d
+NUM_COPPER	projects/kollr/dominion/interface.h	24;"	d
+NUM_COPPER	projects/roberwen/dominion/interface.h	24;"	d
+NUM_C_CARDS_2	dominion/interface.h	21;"	d
+NUM_C_CARDS_2	projects/kollr/dominion/interface.h	21;"	d
+NUM_C_CARDS_2	projects/roberwen/dominion/interface.h	21;"	d
+NUM_C_CARDS_3	dominion/interface.h	22;"	d
+NUM_C_CARDS_3	projects/kollr/dominion/interface.h	22;"	d
+NUM_C_CARDS_3	projects/roberwen/dominion/interface.h	22;"	d
+NUM_C_CARDS_4	dominion/interface.h	23;"	d
+NUM_C_CARDS_4	projects/kollr/dominion/interface.h	23;"	d
+NUM_C_CARDS_4	projects/roberwen/dominion/interface.h	23;"	d
+NUM_GOLD	dominion/interface.h	26;"	d
+NUM_GOLD	projects/kollr/dominion/interface.h	26;"	d
+NUM_GOLD	projects/roberwen/dominion/interface.h	26;"	d
+NUM_K_CARDS	dominion/interface.h	18;"	d
+NUM_K_CARDS	projects/kollr/dominion/interface.h	18;"	d
+NUM_K_CARDS	projects/roberwen/dominion/interface.h	18;"	d
+NUM_SILVER	dominion/interface.h	25;"	d
+NUM_SILVER	projects/kollr/dominion/interface.h	25;"	d
+NUM_SILVER	projects/roberwen/dominion/interface.h	25;"	d
+NUM_TOTAL_K_CARDS	dominion/interface.h	17;"	d
+NUM_TOTAL_K_CARDS	projects/kollr/dominion/interface.h	17;"	d
+NUM_TOTAL_K_CARDS	projects/roberwen/dominion/interface.h	17;"	d
+NUM_V_CARDS_2	dominion/interface.h	19;"	d
+NUM_V_CARDS_2	projects/kollr/dominion/interface.h	19;"	d
+NUM_V_CARDS_2	projects/roberwen/dominion/interface.h	19;"	d
+NUM_V_CARDS_3or4	dominion/interface.h	20;"	d
+NUM_V_CARDS_3or4	projects/kollr/dominion/interface.h	20;"	d
+NUM_V_CARDS_3or4	projects/roberwen/dominion/interface.h	20;"	d
+ONETHOUSAND	dominion/interface.h	85;"	d
+ONETHOUSAND	projects/kollr/dominion/interface.h	85;"	d
+ONETHOUSAND	projects/roberwen/dominion/interface.h	85;"	d
+OUTPOST_COST	dominion/interface.h	81;"	d
+OUTPOST_COST	projects/kollr/dominion/interface.h	81;"	d
+OUTPOST_COST	projects/roberwen/dominion/interface.h	81;"	d
+PARSE_AUTHORITY_EXTRA	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int PARSE_AUTHORITY_EXTRA = 4;$/;"	f	class:UrlValidator	file:
+PARSE_AUTHORITY_EXTRA	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int PARSE_AUTHORITY_EXTRA = 4;$/;"	f	class:UrlValidator	file:
+PARSE_AUTHORITY_EXTRA	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int PARSE_AUTHORITY_EXTRA = 4;$/;"	f	class:UrlValidator	file:
+PARSE_AUTHORITY_EXTRA	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int PARSE_AUTHORITY_EXTRA = 4;$/;"	f	class:UrlValidator	file:
+PARSE_AUTHORITY_HOST_IP	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int PARSE_AUTHORITY_HOST_IP = 2; \/\/ excludes userinfo, if present$/;"	f	class:UrlValidator	file:
+PARSE_AUTHORITY_HOST_IP	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int PARSE_AUTHORITY_HOST_IP = 2; \/\/ excludes userinfo, if present$/;"	f	class:UrlValidator	file:
+PARSE_AUTHORITY_HOST_IP	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int PARSE_AUTHORITY_HOST_IP = 2; \/\/ excludes userinfo, if present$/;"	f	class:UrlValidator	file:
+PARSE_AUTHORITY_HOST_IP	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int PARSE_AUTHORITY_HOST_IP = 2; \/\/ excludes userinfo, if present$/;"	f	class:UrlValidator	file:
+PARSE_AUTHORITY_IPV6	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int PARSE_AUTHORITY_IPV6 = 1;$/;"	f	class:UrlValidator	file:
+PARSE_AUTHORITY_IPV6	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int PARSE_AUTHORITY_IPV6 = 1;$/;"	f	class:UrlValidator	file:
+PARSE_AUTHORITY_IPV6	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int PARSE_AUTHORITY_IPV6 = 1;$/;"	f	class:UrlValidator	file:
+PARSE_AUTHORITY_IPV6	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int PARSE_AUTHORITY_IPV6 = 1;$/;"	f	class:UrlValidator	file:
+PARSE_AUTHORITY_PORT	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int PARSE_AUTHORITY_PORT = 3; \/\/ excludes leading colon$/;"	f	class:UrlValidator	file:
+PARSE_AUTHORITY_PORT	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int PARSE_AUTHORITY_PORT = 3; \/\/ excludes leading colon$/;"	f	class:UrlValidator	file:
+PARSE_AUTHORITY_PORT	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int PARSE_AUTHORITY_PORT = 3; \/\/ excludes leading colon$/;"	f	class:UrlValidator	file:
+PARSE_AUTHORITY_PORT	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int PARSE_AUTHORITY_PORT = 3; \/\/ excludes leading colon$/;"	f	class:UrlValidator	file:
+PARSE_URL_AUTHORITY	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_AUTHORITY = 4;$/;"	f	class:UrlValidator	file:
+PARSE_URL_AUTHORITY	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_AUTHORITY = 4;$/;"	f	class:UrlValidator	file:
+PARSE_URL_AUTHORITY	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_AUTHORITY = 4;$/;"	f	class:UrlValidator	file:
+PARSE_URL_AUTHORITY	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_AUTHORITY = 4;$/;"	f	class:UrlValidator	file:
+PARSE_URL_FRAGMENT	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_FRAGMENT = 9;$/;"	f	class:UrlValidator	file:
+PARSE_URL_FRAGMENT	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_FRAGMENT = 9;$/;"	f	class:UrlValidator	file:
+PARSE_URL_FRAGMENT	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_FRAGMENT = 9;$/;"	f	class:UrlValidator	file:
+PARSE_URL_FRAGMENT	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_FRAGMENT = 9;$/;"	f	class:UrlValidator	file:
+PARSE_URL_PATH	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_PATH = 5;$/;"	f	class:UrlValidator	file:
+PARSE_URL_PATH	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_PATH = 5;$/;"	f	class:UrlValidator	file:
+PARSE_URL_PATH	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_PATH = 5;$/;"	f	class:UrlValidator	file:
+PARSE_URL_PATH	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_PATH = 5;$/;"	f	class:UrlValidator	file:
+PARSE_URL_QUERY	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_QUERY = 7;$/;"	f	class:UrlValidator	file:
+PARSE_URL_QUERY	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_QUERY = 7;$/;"	f	class:UrlValidator	file:
+PARSE_URL_QUERY	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_QUERY = 7;$/;"	f	class:UrlValidator	file:
+PARSE_URL_QUERY	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_QUERY = 7;$/;"	f	class:UrlValidator	file:
+PARSE_URL_SCHEME	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_SCHEME = 2;$/;"	f	class:UrlValidator	file:
+PARSE_URL_SCHEME	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_SCHEME = 2;$/;"	f	class:UrlValidator	file:
+PARSE_URL_SCHEME	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_SCHEME = 2;$/;"	f	class:UrlValidator	file:
+PARSE_URL_SCHEME	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final int PARSE_URL_SCHEME = 2;$/;"	f	class:UrlValidator	file:
+PATH_PATTERN	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final Pattern PATH_PATTERN = Pattern.compile(PATH_REGEX);$/;"	f	class:UrlValidator	file:
+PATH_PATTERN	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final Pattern PATH_PATTERN = Pattern.compile(PATH_REGEX);$/;"	f	class:UrlValidator	file:
+PATH_PATTERN	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final Pattern PATH_PATTERN = Pattern.compile(PATH_REGEX);$/;"	f	class:UrlValidator	file:
+PATH_PATTERN	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final Pattern PATH_PATTERN = Pattern.compile(PATH_REGEX);$/;"	f	class:UrlValidator	file:
+PATH_REGEX	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String PATH_REGEX = "^(\/[-\\\\w:@&?=+,.!\/~*'%$_;\\\\(\\\\)]*)?$";$/;"	f	class:UrlValidator	file:
+PATH_REGEX	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final String PATH_REGEX = "^(\/[-\\\\w:@&?=+,.!*'%$_;\\\\(\\\\)]*)?$";$/;"	f	class:UrlValidator	file:
+PATH_REGEX	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String PATH_REGEX = "^(\/[-\\\\w:@&?=+,.!\/~*'%$_;\\\\(\\\\)]*)?$";$/;"	f	class:UrlValidator	file:
+PATH_REGEX	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final String PATH_REGEX = "^(\/[-\\\\w:@&?=+,.!*'%$_;\\\\(\\\\)]*)?$";$/;"	f	class:UrlValidator	file:
+PROVINCE_COST	dominion/interface.h	59;"	d
+PROVINCE_COST	projects/kollr/dominion/interface.h	59;"	d
+PROVINCE_COST	projects/roberwen/dominion/interface.h	59;"	d
+PlantSeeds	dominion/rngs.c	/^   void PlantSeeds(long x)$/;"	f
+PlantSeeds	projects/kollr/dominion/rngs.c	/^   void PlantSeeds(long x)$/;"	f
+PlantSeeds	projects/roberwen/dominion/rngs.c	/^   void PlantSeeds(long x)$/;"	f
+PutSeed	dominion/rngs.c	/^   void PutSeed(long x)$/;"	f
+PutSeed	projects/kollr/dominion/rngs.c	/^   void PutSeed(long x)$/;"	f
+PutSeed	projects/roberwen/dominion/rngs.c	/^   void PutSeed(long x)$/;"	f
+QUERY_PATTERN	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final Pattern QUERY_PATTERN = Pattern.compile(QUERY_REGEX);$/;"	f	class:UrlValidator	file:
+QUERY_PATTERN	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final Pattern QUERY_PATTERN = Pattern.compile(QUERY_REGEX);$/;"	f	class:UrlValidator	file:
+QUERY_PATTERN	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final Pattern QUERY_PATTERN = Pattern.compile(QUERY_REGEX);$/;"	f	class:UrlValidator	file:
+QUERY_PATTERN	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final Pattern QUERY_PATTERN = Pattern.compile(QUERY_REGEX);$/;"	f	class:UrlValidator	file:
+QUERY_REGEX	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String QUERY_REGEX = "^(\\\\S*)$";$/;"	f	class:UrlValidator	file:
+QUERY_REGEX	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final String QUERY_REGEX = "^(\\\\S*)$";$/;"	f	class:UrlValidator	file:
+QUERY_REGEX	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String QUERY_REGEX = "^(\\\\S*)$";$/;"	f	class:UrlValidator	file:
+QUERY_REGEX	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final String QUERY_REGEX = "^(\\\\S*)$";$/;"	f	class:UrlValidator	file:
+REMODEL_COST	dominion/interface.h	67;"	d
+REMODEL_COST	projects/kollr/dominion/interface.h	67;"	d
+REMODEL_COST	projects/roberwen/dominion/interface.h	67;"	d
+Random	dominion/rngs.c	/^   double Random(void)$/;"	f
+Random	projects/kollr/dominion/rngs.c	/^   double Random(void)$/;"	f
+Random	projects/roberwen/dominion/rngs.c	/^   double Random(void)$/;"	f
+RegexValidator	FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    public RegexValidator(String regex) {$/;"	m	class:RegexValidator
+RegexValidator	FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    public RegexValidator(String regex, boolean caseSensitive) {$/;"	m	class:RegexValidator
+RegexValidator	FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    public RegexValidator(String[] regexs) {$/;"	m	class:RegexValidator
+RegexValidator	FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    public RegexValidator(String[] regexs, boolean caseSensitive) {$/;"	m	class:RegexValidator
+RegexValidator	FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^public class RegexValidator implements Serializable {$/;"	c
+RegexValidator	FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    public RegexValidator(String regex) {$/;"	m	class:RegexValidator
+RegexValidator	FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    public RegexValidator(String regex, boolean caseSensitive) {$/;"	m	class:RegexValidator
+RegexValidator	FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    public RegexValidator(String[] regexs) {$/;"	m	class:RegexValidator
+RegexValidator	FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    public RegexValidator(String[] regexs, boolean caseSensitive) {$/;"	m	class:RegexValidator
+RegexValidator	FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^public class RegexValidator implements Serializable {$/;"	c
+RegexValidator	projects/kollr/FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    public RegexValidator(String regex) {$/;"	m	class:RegexValidator
+RegexValidator	projects/kollr/FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    public RegexValidator(String regex, boolean caseSensitive) {$/;"	m	class:RegexValidator
+RegexValidator	projects/kollr/FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    public RegexValidator(String[] regexs) {$/;"	m	class:RegexValidator
+RegexValidator	projects/kollr/FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    public RegexValidator(String[] regexs, boolean caseSensitive) {$/;"	m	class:RegexValidator
+RegexValidator	projects/kollr/FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^public class RegexValidator implements Serializable {$/;"	c
+RegexValidator	projects/kollr/FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    public RegexValidator(String regex) {$/;"	m	class:RegexValidator
+RegexValidator	projects/kollr/FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    public RegexValidator(String regex, boolean caseSensitive) {$/;"	m	class:RegexValidator
+RegexValidator	projects/kollr/FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    public RegexValidator(String[] regexs) {$/;"	m	class:RegexValidator
+RegexValidator	projects/kollr/FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    public RegexValidator(String[] regexs, boolean caseSensitive) {$/;"	m	class:RegexValidator
+RegexValidator	projects/kollr/FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^public class RegexValidator implements Serializable {$/;"	c
+ResultPair	FinalProject/URLValidatorCorrect/src/ResultPair.java	/^      public ResultPair(String item, boolean valid) {$/;"	m	class:ResultPair
+ResultPair	FinalProject/URLValidatorCorrect/src/ResultPair.java	/^ public class ResultPair {$/;"	c
+ResultPair	FinalProject/URLValidatorInCorrect/src/ResultPair.java	/^      public ResultPair(String item, boolean valid) {$/;"	m	class:ResultPair
+ResultPair	FinalProject/URLValidatorInCorrect/src/ResultPair.java	/^ public class ResultPair {$/;"	c
+ResultPair	projects/kollr/FinalProject/URLValidatorCorrect/src/ResultPair.java	/^      public ResultPair(String item, boolean valid) {$/;"	m	class:ResultPair
+ResultPair	projects/kollr/FinalProject/URLValidatorCorrect/src/ResultPair.java	/^ public class ResultPair {$/;"	c
+ResultPair	projects/kollr/FinalProject/URLValidatorInCorrect/src/ResultPair.java	/^      public ResultPair(String item, boolean valid) {$/;"	m	class:ResultPair
+ResultPair	projects/kollr/FinalProject/URLValidatorInCorrect/src/ResultPair.java	/^ public class ResultPair {$/;"	c
+SALVAGER_COST	dominion/interface.h	82;"	d
+SALVAGER_COST	projects/kollr/dominion/interface.h	82;"	d
+SALVAGER_COST	projects/roberwen/dominion/interface.h	82;"	d
+SCHEME_PATTERN	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final Pattern SCHEME_PATTERN = Pattern.compile(SCHEME_REGEX);$/;"	f	class:UrlValidator	file:
+SCHEME_PATTERN	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final Pattern SCHEME_PATTERN = Pattern.compile(SCHEME_REGEX);$/;"	f	class:UrlValidator	file:
+SCHEME_PATTERN	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final Pattern SCHEME_PATTERN = Pattern.compile(SCHEME_REGEX);$/;"	f	class:UrlValidator	file:
+SCHEME_PATTERN	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final Pattern SCHEME_PATTERN = Pattern.compile(SCHEME_REGEX);$/;"	f	class:UrlValidator	file:
+SCHEME_REGEX	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String SCHEME_REGEX = "^\\\\p{Alpha}[\\\\p{Alnum}\\\\+\\\\-\\\\.]*";$/;"	f	class:UrlValidator	file:
+SCHEME_REGEX	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final String SCHEME_REGEX = "^\\\\p{Alpha}[\\\\p{Alnum}\\\\+\\\\-\\\\.]*";$/;"	f	class:UrlValidator	file:
+SCHEME_REGEX	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String SCHEME_REGEX = "^\\\\p{Alpha}[\\\\p{Alnum}\\\\+\\\\-\\\\.]*";$/;"	f	class:UrlValidator	file:
+SCHEME_REGEX	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final String SCHEME_REGEX = "^\\\\p{Alpha}[\\\\p{Alnum}\\\\+\\\\-\\\\.]*";$/;"	f	class:UrlValidator	file:
+SEA_HAG_COST	dominion/interface.h	83;"	d
+SEA_HAG_COST	projects/kollr/dominion/interface.h	83;"	d
+SEA_HAG_COST	projects/roberwen/dominion/interface.h	83;"	d
+SHANTY_TOWN_COST	dominion/interface.h	74;"	d
+SHANTY_TOWN_COST	projects/kollr/dominion/interface.h	74;"	d
+SHANTY_TOWN_COST	projects/roberwen/dominion/interface.h	74;"	d
+SILVER_COST	dominion/interface.h	55;"	d
+SILVER_COST	projects/kollr/dominion/interface.h	55;"	d
+SILVER_COST	projects/roberwen/dominion/interface.h	55;"	d
+SILVER_VALUE	dominion/interface.h	50;"	d
+SILVER_VALUE	projects/kollr/dominion/interface.h	50;"	d
+SILVER_VALUE	projects/roberwen/dominion/interface.h	50;"	d
+SMITHY_COST	dominion/interface.h	68;"	d
+SMITHY_COST	projects/kollr/dominion/interface.h	68;"	d
+SMITHY_COST	projects/roberwen/dominion/interface.h	68;"	d
+START_COPPER	dominion/interface.h	28;"	d
+START_COPPER	projects/kollr/dominion/interface.h	28;"	d
+START_COPPER	projects/roberwen/dominion/interface.h	28;"	d
+START_ESTATE	dominion/interface.h	29;"	d
+START_ESTATE	projects/kollr/dominion/interface.h	29;"	d
+START_ESTATE	projects/roberwen/dominion/interface.h	29;"	d
+STEWARD_COST	dominion/interface.h	75;"	d
+STEWARD_COST	projects/kollr/dominion/interface.h	75;"	d
+STEWARD_COST	projects/roberwen/dominion/interface.h	75;"	d
+STREAMS	dominion/rngs.c	42;"	d	file:
+STREAMS	projects/kollr/dominion/rngs.c	42;"	d	file:
+STREAMS	projects/roberwen/dominion/rngs.c	42;"	d	file:
+SUCCESS	dominion/interface.h	37;"	d
+SUCCESS	projects/kollr/dominion/interface.h	37;"	d
+SUCCESS	projects/roberwen/dominion/interface.h	37;"	d
+SelectStream	dominion/rngs.c	/^   void SelectStream(int index)$/;"	f
+SelectStream	projects/kollr/dominion/rngs.c	/^   void SelectStream(int index)$/;"	f
+SelectStream	projects/roberwen/dominion/rngs.c	/^   void SelectStream(int index)$/;"	f
+TOP_LABEL_REGEX	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final String TOP_LABEL_REGEX = "\\\\p{Alpha}(?>[\\\\p{Alnum}-]{0,61}\\\\p{Alnum})?";$/;"	f	class:DomainValidator	file:
+TOP_LABEL_REGEX	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final String TOP_LABEL_REGEX = "\\\\p{Alpha}(?>[\\\\p{Alnum}-]{0,61}\\\\p{Alnum})?";$/;"	f	class:DomainValidator	file:
+TOP_LABEL_REGEX	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final String TOP_LABEL_REGEX = "\\\\p{Alpha}(?>[\\\\p{Alnum}-]{0,61}\\\\p{Alnum})?";$/;"	f	class:DomainValidator	file:
+TOP_LABEL_REGEX	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final String TOP_LABEL_REGEX = "\\\\p{Alpha}(?>[\\\\p{Alnum}-]{0,61}\\\\p{Alnum})?";$/;"	f	class:DomainValidator	file:
+TREASURE_MAP_COST	dominion/interface.h	84;"	d
+TREASURE_MAP_COST	projects/kollr/dominion/interface.h	84;"	d
+TREASURE_MAP_COST	projects/roberwen/dominion/interface.h	84;"	d
+TRIBUTE_COST	dominion/interface.h	76;"	d
+TRIBUTE_COST	projects/kollr/dominion/interface.h	76;"	d
+TRIBUTE_COST	projects/roberwen/dominion/interface.h	76;"	d
+TRUE	dominion/interface.h	34;"	d
+TRUE	projects/kollr/dominion/interface.h	34;"	d
+TRUE	projects/roberwen/dominion/interface.h	34;"	d
+TestRandom	dominion/rngs.c	/^   void TestRandom(void)$/;"	f
+TestRandom	projects/kollr/dominion/rngs.c	/^   void TestRandom(void)$/;"	f
+TestRandom	projects/roberwen/dominion/rngs.c	/^   void TestRandom(void)$/;"	f
+UNUSED	dominion/interface.h	27;"	d
+UNUSED	projects/kollr/dominion/interface.h	27;"	d
+UNUSED	projects/roberwen/dominion/interface.h	27;"	d
+URL_PATTERN	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final Pattern URL_PATTERN = Pattern.compile(URL_REGEX);$/;"	f	class:UrlValidator	file:
+URL_PATTERN	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final Pattern URL_PATTERN = Pattern.compile(URL_REGEX);$/;"	f	class:UrlValidator	file:
+URL_PATTERN	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final Pattern URL_PATTERN = Pattern.compile(URL_REGEX);$/;"	f	class:UrlValidator	file:
+URL_PATTERN	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final Pattern URL_PATTERN = Pattern.compile(URL_REGEX);$/;"	f	class:UrlValidator	file:
+URL_REGEX	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String URL_REGEX =$/;"	f	class:UrlValidator	file:
+URL_REGEX	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final String URL_REGEX =$/;"	f	class:UrlValidator	file:
+URL_REGEX	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String URL_REGEX =$/;"	f	class:UrlValidator	file:
+URL_REGEX	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final String URL_REGEX =$/;"	f	class:UrlValidator	file:
+USERINFO_CHARS_REGEX	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String USERINFO_CHARS_REGEX = "[a-zA-Z0-9%-._~!$&'()*+,;=]";$/;"	f	class:UrlValidator	file:
+USERINFO_CHARS_REGEX	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final String USERINFO_CHARS_REGEX = "[a-zA-Z0-9%-._~!$&'()*+,;=]";$/;"	f	class:UrlValidator	file:
+USERINFO_CHARS_REGEX	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String USERINFO_CHARS_REGEX = "[a-zA-Z0-9%-._~!$&'()*+,;=]";$/;"	f	class:UrlValidator	file:
+USERINFO_CHARS_REGEX	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final String USERINFO_CHARS_REGEX = "[a-zA-Z0-9%-._~!$&'()*+,;=]";$/;"	f	class:UrlValidator	file:
+USERINFO_FIELD_REGEX	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String USERINFO_FIELD_REGEX =$/;"	f	class:UrlValidator	file:
+USERINFO_FIELD_REGEX	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final String USERINFO_FIELD_REGEX =$/;"	f	class:UrlValidator	file:
+USERINFO_FIELD_REGEX	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final String USERINFO_FIELD_REGEX =$/;"	f	class:UrlValidator	file:
+USERINFO_FIELD_REGEX	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final String USERINFO_FIELD_REGEX =$/;"	f	class:UrlValidator	file:
+UrlValidator	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public UrlValidator() {$/;"	m	class:UrlValidator
+UrlValidator	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public UrlValidator(RegexValidator authorityValidator, long options) {$/;"	m	class:UrlValidator
+UrlValidator	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public UrlValidator(String[] schemes) {$/;"	m	class:UrlValidator
+UrlValidator	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public UrlValidator(String[] schemes, RegexValidator authorityValidator, long options) {$/;"	m	class:UrlValidator
+UrlValidator	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public UrlValidator(String[] schemes, long options) {$/;"	m	class:UrlValidator
+UrlValidator	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public UrlValidator(long options) {$/;"	m	class:UrlValidator
+UrlValidator	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^public class UrlValidator implements Serializable {$/;"	c
+UrlValidator	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public UrlValidator() {$/;"	m	class:UrlValidator
+UrlValidator	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public UrlValidator(RegexValidator authorityValidator, long options) {$/;"	m	class:UrlValidator
+UrlValidator	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public UrlValidator(String[] schemes) {$/;"	m	class:UrlValidator
+UrlValidator	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public UrlValidator(String[] schemes, RegexValidator authorityValidator, long options) {$/;"	m	class:UrlValidator
+UrlValidator	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public UrlValidator(String[] schemes, long options) {$/;"	m	class:UrlValidator
+UrlValidator	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public UrlValidator(long options) {$/;"	m	class:UrlValidator
+UrlValidator	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^public class UrlValidator implements Serializable {$/;"	c
+UrlValidator	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public UrlValidator() {$/;"	m	class:UrlValidator
+UrlValidator	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public UrlValidator(RegexValidator authorityValidator, long options) {$/;"	m	class:UrlValidator
+UrlValidator	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public UrlValidator(String[] schemes) {$/;"	m	class:UrlValidator
+UrlValidator	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public UrlValidator(String[] schemes, RegexValidator authorityValidator, long options) {$/;"	m	class:UrlValidator
+UrlValidator	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public UrlValidator(String[] schemes, long options) {$/;"	m	class:UrlValidator
+UrlValidator	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public UrlValidator(long options) {$/;"	m	class:UrlValidator
+UrlValidator	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^public class UrlValidator implements Serializable {$/;"	c
+UrlValidator	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public UrlValidator() {$/;"	m	class:UrlValidator
+UrlValidator	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public UrlValidator(RegexValidator authorityValidator, long options) {$/;"	m	class:UrlValidator
+UrlValidator	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public UrlValidator(String[] schemes) {$/;"	m	class:UrlValidator
+UrlValidator	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public UrlValidator(String[] schemes, RegexValidator authorityValidator, long options) {$/;"	m	class:UrlValidator
+UrlValidator	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public UrlValidator(String[] schemes, long options) {$/;"	m	class:UrlValidator
+UrlValidator	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public UrlValidator(long options) {$/;"	m	class:UrlValidator
+UrlValidator	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^public class UrlValidator implements Serializable {$/;"	c
+UrlValidatorTest	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   public UrlValidatorTest(String testName) {$/;"	m	class:UrlValidatorTest
+UrlValidatorTest	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^public class UrlValidatorTest extends TestCase {$/;"	c
+UrlValidatorTest	FinalProject/URLValidatorInCorrect/test/UrlValidatorTest.java	/^   public UrlValidatorTest(String testName) {$/;"	m	class:UrlValidatorTest
+UrlValidatorTest	FinalProject/URLValidatorInCorrect/test/UrlValidatorTest.java	/^public class UrlValidatorTest extends TestCase {$/;"	c
+UrlValidatorTest	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   public UrlValidatorTest(String testName) {$/;"	m	class:UrlValidatorTest
+UrlValidatorTest	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^public class UrlValidatorTest extends TestCase {$/;"	c
+UrlValidatorTest	projects/kollr/FinalProject/URLValidatorInCorrect/test/UrlValidatorTest.java	/^   public UrlValidatorTest(String testName) {$/;"	m	class:UrlValidatorTest
+UrlValidatorTest	projects/kollr/FinalProject/URLValidatorInCorrect/test/UrlValidatorTest.java	/^public class UrlValidatorTest extends TestCase {$/;"	c
+VALIDATOR	FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    private static final InetAddressValidator VALIDATOR = new InetAddressValidator();$/;"	f	class:InetAddressValidator	file:
+VALIDATOR	FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    private static final InetAddressValidator VALIDATOR = new InetAddressValidator();$/;"	f	class:InetAddressValidator	file:
+VALIDATOR	projects/kollr/FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    private static final InetAddressValidator VALIDATOR = new InetAddressValidator();$/;"	f	class:InetAddressValidator	file:
+VALIDATOR	projects/kollr/FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    private static final InetAddressValidator VALIDATOR = new InetAddressValidator();$/;"	f	class:InetAddressValidator	file:
+VILLAGE_COST	dominion/interface.h	69;"	d
+VILLAGE_COST	projects/kollr/dominion/interface.h	69;"	d
+VILLAGE_COST	projects/roberwen/dominion/interface.h	69;"	d
+WINNER	dominion/interface.h	41;"	d
+WINNER	projects/kollr/dominion/interface.h	41;"	d
+WINNER	projects/roberwen/dominion/interface.h	41;"	d
+WISHING_WELL_COST	dominion/interface.h	77;"	d
+WISHING_WELL_COST	projects/kollr/dominion/interface.h	77;"	d
+WISHING_WELL_COST	projects/roberwen/dominion/interface.h	77;"	d
+WOODCUTTER_COST	dominion/interface.h	70;"	d
+WOODCUTTER_COST	projects/kollr/dominion/interface.h	70;"	d
+WOODCUTTER_COST	projects/roberwen/dominion/interface.h	70;"	d
+_DOMINION_H	dominion/dominion.h	2;"	d
+_DOMINION_H	projects/kollr/dominion/dominion.h	2;"	d
+_DOMINION_H	projects/roberwen/dominion/dominion.h	2;"	d
+_DOMINION_HELPERS_H	dominion/dominion_helpers.h	2;"	d
+_DOMINION_HELPERS_H	projects/kollr/dominion/dominion_helpers.h	2;"	d
+_DOMINION_HELPERS_H	projects/roberwen/dominion/dominion_helpers.h	2;"	d
+_INTERFACE_H	dominion/interface.h	10;"	d
+_INTERFACE_H	projects/kollr/dominion/interface.h	10;"	d
+_INTERFACE_H	projects/roberwen/dominion/interface.h	10;"	d
+_RNGS_	dominion/rngs.h	10;"	d
+_RNGS_	projects/kollr/dominion/rngs.h	10;"	d
+_RNGS_	projects/roberwen/dominion/rngs.h	10;"	d
+addCardToHand	dominion/interface.c	/^int addCardToHand(int player, int card, struct gameState *game) {$/;"	f
+addCardToHand	projects/kollr/dominion/interface.c	/^int addCardToHand(int player, int card, struct gameState *game) {$/;"	f
+addCardToHand	projects/roberwen/dominion/interface.c	/^int addCardToHand(int player, int card, struct gameState *game) {$/;"	f
+adventurer	dominion/dominion.h	/^   adventurer,$/;"	e	enum:CARD
+adventurer	projects/kollr/dominion/dominion.h	/^   adventurer,$/;"	e	enum:CARD
+adventurer	projects/roberwen/dominion/dominion.h	/^   adventurer,$/;"	e	enum:CARD
+adventurerEffect	projects/kollr/dominion/dominion.c	/^void adventurerEffect(int drawntreasure, struct gameState *state, int currentPlayer, int* temphand, int z) {$/;"	f
+allowLocal	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private final boolean allowLocal;$/;"	f	class:DomainValidator	file:
+allowLocal	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private final boolean allowLocal;$/;"	f	class:DomainValidator	file:
+allowLocal	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private final boolean allowLocal;$/;"	f	class:DomainValidator	file:
+allowLocal	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private final boolean allowLocal;$/;"	f	class:DomainValidator	file:
+allowedSchemes	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private final Set<String> allowedSchemes; \/\/ Must be lower-case$/;"	f	class:UrlValidator	file:
+allowedSchemes	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private final Set<String> allowedSchemes; \/\/ Must be lower-case$/;"	f	class:UrlValidator	file:
+allowedSchemes	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private final Set<String> allowedSchemes; \/\/ Must be lower-case$/;"	f	class:UrlValidator	file:
+allowedSchemes	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private final Set<String> allowedSchemes; \/\/ Must be lower-case$/;"	f	class:UrlValidator	file:
+ambassador	dominion/dominion.h	/^   ambassador, \/* choice1 = hand#, choice2 = number to return to supply *\/$/;"	e	enum:CARD
+ambassador	projects/kollr/dominion/dominion.h	/^   ambassador, \/* choice1 = hand#, choice2 = number to return to supply *\/$/;"	e	enum:CARD
+ambassador	projects/roberwen/dominion/dominion.h	/^   ambassador, \/* choice1 = hand#, choice2 = number to return to supply *\/$/;"	e	enum:CARD
+arrayContains	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static boolean arrayContains(String[] sortedArray, String key) {$/;"	m	class:DomainValidator	file:
+arrayContains	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static boolean arrayContains(String[] sortedArray, String key) {$/;"	m	class:DomainValidator	file:
+arrayContains	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static boolean arrayContains(String[] sortedArray, String key) {$/;"	m	class:DomainValidator	file:
+arrayContains	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static boolean arrayContains(String[] sortedArray, String key) {$/;"	m	class:DomainValidator	file:
+asserttrue	projects/kollr/dominion/randomtestadventurer.c	/^void asserttrue(int statement) {$/;"	f
+asserttrue	projects/kollr/dominion/randomtestcard1.c	/^void asserttrue(int statement) {$/;"	f
+asserttrue	projects/kollr/dominion/randomtestcard2.c	/^void asserttrue(int statement) {$/;"	f
+authorityValidator	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private final RegexValidator authorityValidator;$/;"	f	class:UrlValidator	file:
+authorityValidator	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private final RegexValidator authorityValidator;$/;"	f	class:UrlValidator	file:
+authorityValidator	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private final RegexValidator authorityValidator;$/;"	f	class:UrlValidator	file:
+authorityValidator	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private final RegexValidator authorityValidator;$/;"	f	class:UrlValidator	file:
+baron	dominion/dominion.h	/^   baron, \/* choice1: boolean for discard of estate *\/$/;"	e	enum:CARD
+baron	projects/kollr/dominion/dominion.h	/^   baron, \/* choice1: boolean for discard of estate *\/$/;"	e	enum:CARD
+baron	projects/roberwen/dominion/dominion.h	/^   baron, \/* choice1: boolean for discard of estate *\/$/;"	e	enum:CARD
+buyCard	dominion/dominion.c	/^int buyCard(int supplyPos, struct gameState *state) {$/;"	f
+buyCard	projects/kollr/dominion/dominion.c	/^int buyCard(int supplyPos, struct gameState *state) {$/;"	f
+buyCard	projects/roberwen/dominion/dominion.c	/^int buyCard(int supplyPos, struct gameState *state) {$/;"	f
+cardEffect	dominion/dominion.c	/^int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState *state, int handPos, int *bonus)$/;"	f
+cardEffect	projects/kollr/dominion/dominion.c	/^int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState *state, int handPos, int *bonus)$/;"	f
+cardEffect	projects/roberwen/dominion/dominion.c	/^int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState *state, int handPos, int *bonus)$/;"	f
+cardNumToName	dominion/interface.c	/^void cardNumToName(int card, char *name){$/;"	f
+cardNumToName	projects/kollr/dominion/interface.c	/^void cardNumToName(int card, char *name){$/;"	f
+cardNumToName	projects/roberwen/dominion/interface.c	/^void cardNumToName(int card, char *name){$/;"	f
+checkDrawCard	dominion/badTestDrawCard.c	/^int checkDrawCard(int p, struct gameState *post) {$/;"	f
+checkDrawCard	dominion/betterTestDrawCard.c	/^int checkDrawCard(int p, struct gameState *post) {$/;"	f
+checkDrawCard	dominion/testBuyCard.c	/^int checkDrawCard(int p, struct gameState *post) {$/;"	f
+checkDrawCard	dominion/testDrawCard.c	/^int checkDrawCard(int p, struct gameState *post) {$/;"	f
+checkDrawCard	projects/kollr/dominion/badTestDrawCard.c	/^int checkDrawCard(int p, struct gameState *post) {$/;"	f
+checkDrawCard	projects/kollr/dominion/betterTestDrawCard.c	/^int checkDrawCard(int p, struct gameState *post) {$/;"	f
+checkDrawCard	projects/kollr/dominion/testBuyCard.c	/^int checkDrawCard(int p, struct gameState *post) {$/;"	f
+checkDrawCard	projects/kollr/dominion/testDrawCard.c	/^int checkDrawCard(int p, struct gameState *post) {$/;"	f
+checkDrawCard	projects/roberwen/dominion/badTestDrawCard.c	/^int checkDrawCard(int p, struct gameState *post) {$/;"	f
+checkDrawCard	projects/roberwen/dominion/betterTestDrawCard.c	/^int checkDrawCard(int p, struct gameState *post) {$/;"	f
+checkDrawCard	projects/roberwen/dominion/testBuyCard.c	/^int checkDrawCard(int p, struct gameState *post) {$/;"	f
+checkDrawCard	projects/roberwen/dominion/testDrawCard.c	/^int checkDrawCard(int p, struct gameState *post) {$/;"	f
+chompLeadingDot	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private String chompLeadingDot(String str) {$/;"	m	class:DomainValidator	file:
+chompLeadingDot	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private String chompLeadingDot(String str) {$/;"	m	class:DomainValidator	file:
+chompLeadingDot	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private String chompLeadingDot(String str) {$/;"	m	class:DomainValidator	file:
+chompLeadingDot	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private String chompLeadingDot(String str) {$/;"	m	class:DomainValidator	file:
+clearTLDOverrides	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    static synchronized void clearTLDOverrides() {$/;"	m	class:DomainValidator
+clearTLDOverrides	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    static synchronized void clearTLDOverrides() {$/;"	m	class:DomainValidator
+clearTLDOverrides	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    static synchronized void clearTLDOverrides() {$/;"	m	class:DomainValidator
+clearTLDOverrides	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    static synchronized void clearTLDOverrides() {$/;"	m	class:DomainValidator
+coins	dominion/dominion.h	/^  int coins; \/* Use as you see fit! *\/$/;"	m	struct:gameState
+coins	projects/kollr/dominion/dominion.h	/^  int coins; \/* Use as you see fit! *\/$/;"	m	struct:gameState
+coins	projects/roberwen/dominion/dominion.h	/^  int coins; \/* Use as you see fit! *\/$/;"	m	struct:gameState
+compare	dominion/dominion.c	/^int compare(const void* a, const void* b) {$/;"	f
+compare	projects/kollr/dominion/dominion.c	/^int compare(const void* a, const void* b) {$/;"	f
+compare	projects/roberwen/dominion/dominion.c	/^int compare(const void* a, const void* b) {$/;"	f
+copper	dominion/dominion.h	/^   copper,$/;"	e	enum:CARD
+copper	projects/kollr/dominion/dominion.h	/^   copper,$/;"	e	enum:CARD
+copper	projects/roberwen/dominion/dominion.h	/^   copper,$/;"	e	enum:CARD
+council_room	dominion/dominion.h	/^   council_room,$/;"	e	enum:CARD
+council_room	projects/kollr/dominion/dominion.h	/^   council_room,$/;"	e	enum:CARD
+council_room	projects/roberwen/dominion/dominion.h	/^   council_room,$/;"	e	enum:CARD
+countHandCoins	dominion/interface.c	/^int countHandCoins(int player, struct gameState *game) {$/;"	f
+countHandCoins	projects/kollr/dominion/interface.c	/^int countHandCoins(int player, struct gameState *game) {$/;"	f
+countHandCoins	projects/roberwen/dominion/interface.c	/^int countHandCoins(int player, struct gameState *game) {$/;"	f
+countToken	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    protected int countToken(String token, String target) {$/;"	m	class:UrlValidator
+countToken	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    protected int countToken(String token, String target) {$/;"	m	class:UrlValidator
+countToken	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    protected int countToken(String token, String target) {$/;"	m	class:UrlValidator
+countToken	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    protected int countToken(String token, String target) {$/;"	m	class:UrlValidator
+countryCodeTLDsMinus	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static volatile String[] countryCodeTLDsMinus = EMPTY_STRING_ARRAY;$/;"	f	class:DomainValidator	file:
+countryCodeTLDsMinus	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static volatile String[] countryCodeTLDsMinus = EMPTY_STRING_ARRAY;$/;"	f	class:DomainValidator	file:
+countryCodeTLDsMinus	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static volatile String[] countryCodeTLDsMinus = EMPTY_STRING_ARRAY;$/;"	f	class:DomainValidator	file:
+countryCodeTLDsMinus	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static volatile String[] countryCodeTLDsMinus = EMPTY_STRING_ARRAY;$/;"	f	class:DomainValidator	file:
+countryCodeTLDsPlus	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static volatile String[] countryCodeTLDsPlus = EMPTY_STRING_ARRAY;$/;"	f	class:DomainValidator	file:
+countryCodeTLDsPlus	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static volatile String[] countryCodeTLDsPlus = EMPTY_STRING_ARRAY;$/;"	f	class:DomainValidator	file:
+countryCodeTLDsPlus	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static volatile String[] countryCodeTLDsPlus = EMPTY_STRING_ARRAY;$/;"	f	class:DomainValidator	file:
+countryCodeTLDsPlus	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static volatile String[] countryCodeTLDsPlus = EMPTY_STRING_ARRAY;$/;"	f	class:DomainValidator	file:
+curse	dominion/dominion.h	/^  {curse = 0,$/;"	e	enum:CARD
+curse	projects/kollr/dominion/dominion.h	/^  {curse = 0,$/;"	e	enum:CARD
+curse	projects/roberwen/dominion/dominion.h	/^  {curse = 0,$/;"	e	enum:CARD
+cutpurse	dominion/dominion.h	/^   cutpurse,$/;"	e	enum:CARD
+cutpurse	projects/kollr/dominion/dominion.h	/^   cutpurse,$/;"	e	enum:CARD
+cutpurse	projects/roberwen/dominion/dominion.h	/^   cutpurse,$/;"	e	enum:CARD
+deck	dominion/dominion.h	/^  int deck[MAX_PLAYERS][MAX_DECK];$/;"	m	struct:gameState
+deck	projects/kollr/dominion/dominion.h	/^  int deck[MAX_PLAYERS][MAX_DECK];$/;"	m	struct:gameState
+deck	projects/roberwen/dominion/dominion.h	/^  int deck[MAX_PLAYERS][MAX_DECK];$/;"	m	struct:gameState
+deckCount	dominion/dominion.h	/^  int deckCount[MAX_PLAYERS];$/;"	m	struct:gameState
+deckCount	projects/kollr/dominion/dominion.h	/^  int deckCount[MAX_PLAYERS];$/;"	m	struct:gameState
+deckCount	projects/roberwen/dominion/dominion.h	/^  int deckCount[MAX_PLAYERS];$/;"	m	struct:gameState
+discard	dominion/dominion.h	/^  int discard[MAX_PLAYERS][MAX_DECK];$/;"	m	struct:gameState
+discard	projects/kollr/dominion/dominion.h	/^  int discard[MAX_PLAYERS][MAX_DECK];$/;"	m	struct:gameState
+discard	projects/roberwen/dominion/dominion.h	/^  int discard[MAX_PLAYERS][MAX_DECK];$/;"	m	struct:gameState
+discardCard	dominion/dominion.c	/^int discardCard(int handPos, int currentPlayer, struct gameState *state, int trashFlag)$/;"	f
+discardCard	projects/kollr/dominion/dominion.c	/^int discardCard(int handPos, int currentPlayer, struct gameState *state, int trashFlag)$/;"	f
+discardCard	projects/roberwen/dominion/dominion.c	/^int discardCard(int handPos, int currentPlayer, struct gameState *state, int trashFlag)$/;"	f
+discardCount	dominion/dominion.h	/^  int discardCount[MAX_PLAYERS];$/;"	m	struct:gameState
+discardCount	projects/kollr/dominion/dominion.h	/^  int discardCount[MAX_PLAYERS];$/;"	m	struct:gameState
+discardCount	projects/roberwen/dominion/dominion.h	/^  int discardCount[MAX_PLAYERS];$/;"	m	struct:gameState
+domainRegex	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private final RegexValidator domainRegex =$/;"	f	class:DomainValidator	file:
+domainRegex	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private final RegexValidator domainRegex =$/;"	f	class:DomainValidator	file:
+domainRegex	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private final RegexValidator domainRegex =$/;"	f	class:DomainValidator	file:
+domainRegex	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private final RegexValidator domainRegex =$/;"	f	class:DomainValidator	file:
+drawCard	dominion/dominion.c	/^int drawCard(int player, struct gameState *state)$/;"	f
+drawCard	projects/kollr/dominion/dominion.c	/^int drawCard(int player, struct gameState *state)$/;"	f
+drawCard	projects/roberwen/dominion/dominion.c	/^int drawCard(int player, struct gameState *state)$/;"	f
+duchy	dominion/dominion.h	/^   duchy,$/;"	e	enum:CARD
+duchy	projects/kollr/dominion/dominion.h	/^   duchy,$/;"	e	enum:CARD
+duchy	projects/roberwen/dominion/dominion.h	/^   duchy,$/;"	e	enum:CARD
+embargo	dominion/dominion.h	/^   embargo, \/* choice1 = supply# *\/$/;"	e	enum:CARD
+embargo	projects/kollr/dominion/dominion.h	/^   embargo, \/* choice1 = supply# *\/$/;"	e	enum:CARD
+embargo	projects/roberwen/dominion/dominion.h	/^   embargo, \/* choice1 = supply# *\/$/;"	e	enum:CARD
+embargoTokens	dominion/dominion.h	/^  int embargoTokens[treasure_map+1];$/;"	m	struct:gameState
+embargoTokens	projects/kollr/dominion/dominion.h	/^  int embargoTokens[treasure_map+1];$/;"	m	struct:gameState
+embargoTokens	projects/roberwen/dominion/dominion.h	/^  int embargoTokens[treasure_map+1];$/;"	m	struct:gameState
+endTurn	dominion/dominion.c	/^int endTurn(struct gameState *state) {$/;"	f
+endTurn	projects/kollr/dominion/dominion.c	/^int endTurn(struct gameState *state) {$/;"	f
+endTurn	projects/roberwen/dominion/dominion.c	/^int endTurn(struct gameState *state) {$/;"	f
+estate	dominion/dominion.h	/^   estate,$/;"	e	enum:CARD
+estate	projects/kollr/dominion/dominion.h	/^   estate,$/;"	e	enum:CARD
+estate	projects/roberwen/dominion/dominion.h	/^   estate,$/;"	e	enum:CARD
+executeBotTurn	dominion/interface.c	/^void executeBotTurn(int player, int *turnNum, struct gameState *game) {$/;"	f
+executeBotTurn	projects/kollr/dominion/interface.c	/^void executeBotTurn(int player, int *turnNum, struct gameState *game) {$/;"	f
+executeBotTurn	projects/roberwen/dominion/interface.c	/^void executeBotTurn(int player, int *turnNum, struct gameState *game) {$/;"	f
+feast	dominion/dominion.h	/^   feast, \/* choice1 is supply # of card gained) *\/$/;"	e	enum:CARD
+feast	projects/kollr/dominion/dominion.h	/^   feast, \/* choice1 is supply # of card gained) *\/$/;"	e	enum:CARD
+feast	projects/roberwen/dominion/dominion.h	/^   feast, \/* choice1 is supply # of card gained) *\/$/;"	e	enum:CARD
+feastEffect	projects/kollr/dominion/dominion.c	/^void feastEffect(struct gameState *state, int currentPlayer, int* temphand, int choice1) {$/;"	f
+fullDeckCount	dominion/dominion.c	/^int fullDeckCount(int player, int card, struct gameState *state) {$/;"	f
+fullDeckCount	projects/kollr/dominion/dominion.c	/^int fullDeckCount(int player, int card, struct gameState *state) {$/;"	f
+fullDeckCount	projects/roberwen/dominion/dominion.c	/^int fullDeckCount(int player, int card, struct gameState *state) {$/;"	f
+gainCard	dominion/dominion.c	/^int gainCard(int supplyPos, struct gameState *state, int toFlag, int player)$/;"	f
+gainCard	projects/kollr/dominion/dominion.c	/^int gainCard(int supplyPos, struct gameState *state, int toFlag, int player)$/;"	f
+gainCard	projects/roberwen/dominion/dominion.c	/^int gainCard(int supplyPos, struct gameState *state, int toFlag, int player)$/;"	f
+gameState	dominion/dominion.h	/^struct gameState {$/;"	s
+gameState	projects/kollr/dominion/dominion.h	/^struct gameState {$/;"	s
+gameState	projects/roberwen/dominion/dominion.h	/^struct gameState {$/;"	s
+gardens	dominion/dominion.h	/^   gardens,$/;"	e	enum:CARD
+gardens	projects/kollr/dominion/dominion.h	/^   gardens,$/;"	e	enum:CARD
+gardens	projects/roberwen/dominion/dominion.h	/^   gardens,$/;"	e	enum:CARD
+genericTLDsMinus	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static volatile String[] genericTLDsMinus = EMPTY_STRING_ARRAY;$/;"	f	class:DomainValidator	file:
+genericTLDsMinus	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static volatile String[] genericTLDsMinus = EMPTY_STRING_ARRAY;$/;"	f	class:DomainValidator	file:
+genericTLDsMinus	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static volatile String[] genericTLDsMinus = EMPTY_STRING_ARRAY;$/;"	f	class:DomainValidator	file:
+genericTLDsMinus	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static volatile String[] genericTLDsMinus = EMPTY_STRING_ARRAY;$/;"	f	class:DomainValidator	file:
+genericTLDsPlus	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static volatile String[] genericTLDsPlus = EMPTY_STRING_ARRAY;$/;"	f	class:DomainValidator	file:
+genericTLDsPlus	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static volatile String[] genericTLDsPlus = EMPTY_STRING_ARRAY;$/;"	f	class:DomainValidator	file:
+genericTLDsPlus	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static volatile String[] genericTLDsPlus = EMPTY_STRING_ARRAY;$/;"	f	class:DomainValidator	file:
+genericTLDsPlus	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static volatile String[] genericTLDsPlus = EMPTY_STRING_ARRAY;$/;"	f	class:DomainValidator	file:
+getCardCost	dominion/interface.c	/^int getCardCost(int card) {$/;"	f
+getCardCost	projects/kollr/dominion/interface.c	/^int getCardCost(int card) {$/;"	f
+getCardCost	projects/roberwen/dominion/interface.c	/^int getCardCost(int card) {$/;"	f
+getCost	dominion/dominion.c	/^int getCost(int cardNumber)$/;"	f
+getCost	projects/kollr/dominion/dominion.c	/^int getCost(int cardNumber)$/;"	f
+getCost	projects/roberwen/dominion/dominion.c	/^int getCost(int cardNumber)$/;"	f
+getInstance	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public static synchronized DomainValidator getInstance() {$/;"	m	class:DomainValidator
+getInstance	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public static synchronized DomainValidator getInstance(boolean allowLocal) {$/;"	m	class:DomainValidator
+getInstance	FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    public static InetAddressValidator getInstance() {$/;"	m	class:InetAddressValidator
+getInstance	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public static UrlValidator getInstance() {$/;"	m	class:UrlValidator
+getInstance	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public static synchronized DomainValidator getInstance() {$/;"	m	class:DomainValidator
+getInstance	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public static synchronized DomainValidator getInstance(boolean allowLocal) {$/;"	m	class:DomainValidator
+getInstance	FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    public static InetAddressValidator getInstance() {$/;"	m	class:InetAddressValidator
+getInstance	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public static UrlValidator getInstance() {$/;"	m	class:UrlValidator
+getInstance	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public static synchronized DomainValidator getInstance() {$/;"	m	class:DomainValidator
+getInstance	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public static synchronized DomainValidator getInstance(boolean allowLocal) {$/;"	m	class:DomainValidator
+getInstance	projects/kollr/FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    public static InetAddressValidator getInstance() {$/;"	m	class:InetAddressValidator
+getInstance	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public static UrlValidator getInstance() {$/;"	m	class:UrlValidator
+getInstance	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public static synchronized DomainValidator getInstance() {$/;"	m	class:DomainValidator
+getInstance	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public static synchronized DomainValidator getInstance(boolean allowLocal) {$/;"	m	class:DomainValidator
+getInstance	projects/kollr/FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    public static InetAddressValidator getInstance() {$/;"	m	class:InetAddressValidator
+getInstance	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public static UrlValidator getInstance() {$/;"	m	class:UrlValidator
+getTLDEntries	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public static String [] getTLDEntries(ArrayType table) {$/;"	m	class:DomainValidator
+getTLDEntries	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public static String [] getTLDEntries(ArrayType table) {$/;"	m	class:DomainValidator
+getTLDEntries	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public static String [] getTLDEntries(ArrayType table) {$/;"	m	class:DomainValidator
+getTLDEntries	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public static String [] getTLDEntries(ArrayType table) {$/;"	m	class:DomainValidator
+getWinners	dominion/dominion.c	/^int getWinners(int players[MAX_PLAYERS], struct gameState *state) {$/;"	f
+getWinners	projects/kollr/dominion/dominion.c	/^int getWinners(int players[MAX_PLAYERS], struct gameState *state) {$/;"	f
+getWinners	projects/roberwen/dominion/dominion.c	/^int getWinners(int players[MAX_PLAYERS], struct gameState *state) {$/;"	f
+gold	dominion/dominion.h	/^   gold,$/;"	e	enum:CARD
+gold	projects/kollr/dominion/dominion.h	/^   gold,$/;"	e	enum:CARD
+gold	projects/roberwen/dominion/dominion.h	/^   gold,$/;"	e	enum:CARD
+great_hall	dominion/dominion.h	/^   great_hall,$/;"	e	enum:CARD
+great_hall	projects/kollr/dominion/dominion.h	/^   great_hall,$/;"	e	enum:CARD
+great_hall	projects/roberwen/dominion/dominion.h	/^   great_hall,$/;"	e	enum:CARD
+hand	dominion/dominion.h	/^  int hand[MAX_PLAYERS][MAX_HAND];$/;"	m	struct:gameState
+hand	projects/kollr/dominion/dominion.h	/^  int hand[MAX_PLAYERS][MAX_HAND];$/;"	m	struct:gameState
+hand	projects/roberwen/dominion/dominion.h	/^  int hand[MAX_PLAYERS][MAX_HAND];$/;"	m	struct:gameState
+handCard	dominion/dominion.c	/^int handCard(int handPos, struct gameState *state) {$/;"	f
+handCard	projects/kollr/dominion/dominion.c	/^int handCard(int handPos, struct gameState *state) {$/;"	f
+handCard	projects/roberwen/dominion/dominion.c	/^int handCard(int handPos, struct gameState *state) {$/;"	f
+handCount	dominion/dominion.h	/^  int handCount[MAX_PLAYERS];$/;"	m	struct:gameState
+handCount	projects/kollr/dominion/dominion.h	/^  int handCount[MAX_PLAYERS];$/;"	m	struct:gameState
+handCount	projects/roberwen/dominion/dominion.h	/^  int handCount[MAX_PLAYERS];$/;"	m	struct:gameState
+hostnameRegex	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private final RegexValidator hostnameRegex =$/;"	f	class:DomainValidator	file:
+hostnameRegex	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private final RegexValidator hostnameRegex =$/;"	f	class:DomainValidator	file:
+hostnameRegex	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private final RegexValidator hostnameRegex =$/;"	f	class:DomainValidator	file:
+hostnameRegex	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private final RegexValidator hostnameRegex =$/;"	f	class:DomainValidator	file:
+inUse	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static boolean inUse = false;$/;"	f	class:DomainValidator	file:
+inUse	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static boolean inUse = false;$/;"	f	class:DomainValidator	file:
+inUse	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static boolean inUse = false;$/;"	f	class:DomainValidator	file:
+inUse	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static boolean inUse = false;$/;"	f	class:DomainValidator	file:
+incrementTestPartsIndex	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   static boolean incrementTestPartsIndex(int[] testPartsIndex, Object[] testParts) {$/;"	m	class:UrlValidatorTest
+incrementTestPartsIndex	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   static boolean incrementTestPartsIndex(int[] testPartsIndex, Object[] testParts) {$/;"	m	class:UrlValidatorTest
+initializeGame	dominion/dominion.c	/^int initializeGame(int numPlayers, int kingdomCards[10], int randomSeed,$/;"	f
+initializeGame	projects/kollr/dominion/dominion.c	/^int initializeGame(int numPlayers, int kingdomCards[10], int randomSeed,$/;"	f
+initializeGame	projects/roberwen/dominion/dominion.c	/^int initializeGame(int numPlayers, int kingdomCards[10], int randomSeed,$/;"	f
+initialized	dominion/rngs.c	/^static int  initialized   = 0;          \/* test for stream initialization *\/$/;"	v	file:
+initialized	projects/kollr/dominion/rngs.c	/^static int  initialized   = 0;          \/* test for stream initialization *\/$/;"	v	file:
+initialized	projects/roberwen/dominion/rngs.c	/^static int  initialized   = 0;          \/* test for stream initialization *\/$/;"	v	file:
+ipv4Validator	FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    private final RegexValidator ipv4Validator = new RegexValidator(IPV4_REGEX);$/;"	f	class:InetAddressValidator	file:
+ipv4Validator	FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    private final RegexValidator ipv4Validator = new RegexValidator(IPV4_REGEX);$/;"	f	class:InetAddressValidator	file:
+ipv4Validator	projects/kollr/FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    private final RegexValidator ipv4Validator = new RegexValidator(IPV4_REGEX);$/;"	f	class:InetAddressValidator	file:
+ipv4Validator	projects/kollr/FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    private final RegexValidator ipv4Validator = new RegexValidator(IPV4_REGEX);$/;"	f	class:InetAddressValidator	file:
+isGameOver	dominion/dominion.c	/^int isGameOver(struct gameState *state) {$/;"	f
+isGameOver	projects/kollr/dominion/dominion.c	/^int isGameOver(struct gameState *state) {$/;"	f
+isGameOver	projects/roberwen/dominion/dominion.c	/^int isGameOver(struct gameState *state) {$/;"	f
+isOff	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private boolean isOff(long flag) {$/;"	m	class:UrlValidator	file:
+isOff	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private boolean isOff(long flag) {$/;"	m	class:UrlValidator	file:
+isOff	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private boolean isOff(long flag) {$/;"	m	class:UrlValidator	file:
+isOff	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private boolean isOff(long flag) {$/;"	m	class:UrlValidator	file:
+isOn	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private boolean isOn(long flag) {$/;"	m	class:UrlValidator	file:
+isOn	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private boolean isOn(long flag) {$/;"	m	class:UrlValidator	file:
+isOn	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private boolean isOn(long flag) {$/;"	m	class:UrlValidator	file:
+isOn	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private boolean isOn(long flag) {$/;"	m	class:UrlValidator	file:
+isOnlyASCII	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static boolean isOnlyASCII(String input) {$/;"	m	class:DomainValidator	file:
+isOnlyASCII	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static boolean isOnlyASCII(String input) {$/;"	m	class:DomainValidator	file:
+isOnlyASCII	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static boolean isOnlyASCII(String input) {$/;"	m	class:DomainValidator	file:
+isOnlyASCII	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static boolean isOnlyASCII(String input) {$/;"	m	class:DomainValidator	file:
+isValid	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public boolean isValid(String domain) {$/;"	m	class:DomainValidator
+isValid	FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    public boolean isValid(String inetAddress) {$/;"	m	class:InetAddressValidator
+isValid	FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    public boolean isValid(String value) {$/;"	m	class:RegexValidator
+isValid	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public boolean isValid(String value) {$/;"	m	class:UrlValidator
+isValid	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public boolean isValid(String domain) {$/;"	m	class:DomainValidator
+isValid	FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    public boolean isValid(String inetAddress) {$/;"	m	class:InetAddressValidator
+isValid	FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    public boolean isValid(String value) {$/;"	m	class:RegexValidator
+isValid	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public boolean isValid(String value) {$/;"	m	class:UrlValidator
+isValid	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public boolean isValid(String domain) {$/;"	m	class:DomainValidator
+isValid	projects/kollr/FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    public boolean isValid(String inetAddress) {$/;"	m	class:InetAddressValidator
+isValid	projects/kollr/FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    public boolean isValid(String value) {$/;"	m	class:RegexValidator
+isValid	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    public boolean isValid(String value) {$/;"	m	class:UrlValidator
+isValid	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public boolean isValid(String domain) {$/;"	m	class:DomainValidator
+isValid	projects/kollr/FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    public boolean isValid(String inetAddress) {$/;"	m	class:InetAddressValidator
+isValid	projects/kollr/FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    public boolean isValid(String value) {$/;"	m	class:RegexValidator
+isValid	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    public boolean isValid(String value) {$/;"	m	class:UrlValidator
+isValidAuthority	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    protected boolean isValidAuthority(String authority) {$/;"	m	class:UrlValidator
+isValidAuthority	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    protected boolean isValidAuthority(String authority) {$/;"	m	class:UrlValidator
+isValidAuthority	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    protected boolean isValidAuthority(String authority) {$/;"	m	class:UrlValidator
+isValidAuthority	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    protected boolean isValidAuthority(String authority) {$/;"	m	class:UrlValidator
+isValidCountryCodeTld	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public boolean isValidCountryCodeTld(String ccTld) {$/;"	m	class:DomainValidator
+isValidCountryCodeTld	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public boolean isValidCountryCodeTld(String ccTld) {$/;"	m	class:DomainValidator
+isValidCountryCodeTld	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public boolean isValidCountryCodeTld(String ccTld) {$/;"	m	class:DomainValidator
+isValidCountryCodeTld	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public boolean isValidCountryCodeTld(String ccTld) {$/;"	m	class:DomainValidator
+isValidDomainSyntax	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    final boolean isValidDomainSyntax(String domain) {$/;"	m	class:DomainValidator
+isValidDomainSyntax	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    final boolean isValidDomainSyntax(String domain) {$/;"	m	class:DomainValidator
+isValidDomainSyntax	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    final boolean isValidDomainSyntax(String domain) {$/;"	m	class:DomainValidator
+isValidDomainSyntax	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    final boolean isValidDomainSyntax(String domain) {$/;"	m	class:DomainValidator
+isValidFragment	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    protected boolean isValidFragment(String fragment) {$/;"	m	class:UrlValidator
+isValidFragment	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    protected boolean isValidFragment(String fragment) {$/;"	m	class:UrlValidator
+isValidFragment	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    protected boolean isValidFragment(String fragment) {$/;"	m	class:UrlValidator
+isValidFragment	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    protected boolean isValidFragment(String fragment) {$/;"	m	class:UrlValidator
+isValidGenericTld	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public boolean isValidGenericTld(String gTld) {$/;"	m	class:DomainValidator
+isValidGenericTld	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public boolean isValidGenericTld(String gTld) {$/;"	m	class:DomainValidator
+isValidGenericTld	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public boolean isValidGenericTld(String gTld) {$/;"	m	class:DomainValidator
+isValidGenericTld	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public boolean isValidGenericTld(String gTld) {$/;"	m	class:DomainValidator
+isValidInet4Address	FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    public boolean isValidInet4Address(String inet4Address) {$/;"	m	class:InetAddressValidator
+isValidInet4Address	FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    public boolean isValidInet4Address(String inet4Address) {$/;"	m	class:InetAddressValidator
+isValidInet4Address	projects/kollr/FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    public boolean isValidInet4Address(String inet4Address) {$/;"	m	class:InetAddressValidator
+isValidInet4Address	projects/kollr/FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    public boolean isValidInet4Address(String inet4Address) {$/;"	m	class:InetAddressValidator
+isValidInet6Address	FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    public boolean isValidInet6Address(String inet6Address) {$/;"	m	class:InetAddressValidator
+isValidInet6Address	FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    public boolean isValidInet6Address(String inet6Address) {$/;"	m	class:InetAddressValidator
+isValidInet6Address	projects/kollr/FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    public boolean isValidInet6Address(String inet6Address) {$/;"	m	class:InetAddressValidator
+isValidInet6Address	projects/kollr/FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    public boolean isValidInet6Address(String inet6Address) {$/;"	m	class:InetAddressValidator
+isValidInfrastructureTld	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public boolean isValidInfrastructureTld(String iTld) {$/;"	m	class:DomainValidator
+isValidInfrastructureTld	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public boolean isValidInfrastructureTld(String iTld) {$/;"	m	class:DomainValidator
+isValidInfrastructureTld	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public boolean isValidInfrastructureTld(String iTld) {$/;"	m	class:DomainValidator
+isValidInfrastructureTld	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public boolean isValidInfrastructureTld(String iTld) {$/;"	m	class:DomainValidator
+isValidLocalTld	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public boolean isValidLocalTld(String lTld) {$/;"	m	class:DomainValidator
+isValidLocalTld	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public boolean isValidLocalTld(String lTld) {$/;"	m	class:DomainValidator
+isValidLocalTld	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public boolean isValidLocalTld(String lTld) {$/;"	m	class:DomainValidator
+isValidLocalTld	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public boolean isValidLocalTld(String lTld) {$/;"	m	class:DomainValidator
+isValidPath	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    protected boolean isValidPath(String path) {$/;"	m	class:UrlValidator
+isValidPath	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    protected boolean isValidPath(String path) {$/;"	m	class:UrlValidator
+isValidPath	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    protected boolean isValidPath(String path) {$/;"	m	class:UrlValidator
+isValidPath	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    protected boolean isValidPath(String path) {$/;"	m	class:UrlValidator
+isValidQuery	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    protected boolean isValidQuery(String query) {$/;"	m	class:UrlValidator
+isValidQuery	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    protected boolean isValidQuery(String query) {$/;"	m	class:UrlValidator
+isValidQuery	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    protected boolean isValidQuery(String query) {$/;"	m	class:UrlValidator
+isValidQuery	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    protected boolean isValidQuery(String query) {$/;"	m	class:UrlValidator
+isValidScheme	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    protected boolean isValidScheme(String scheme) {$/;"	m	class:UrlValidator
+isValidScheme	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    protected boolean isValidScheme(String scheme) {$/;"	m	class:UrlValidator
+isValidScheme	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    protected boolean isValidScheme(String scheme) {$/;"	m	class:UrlValidator
+isValidScheme	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    protected boolean isValidScheme(String scheme) {$/;"	m	class:UrlValidator
+isValidTld	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public boolean isValidTld(String tld) {$/;"	m	class:DomainValidator
+isValidTld	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public boolean isValidTld(String tld) {$/;"	m	class:DomainValidator
+isValidTld	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public boolean isValidTld(String tld) {$/;"	m	class:DomainValidator
+isValidTld	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public boolean isValidTld(String tld) {$/;"	m	class:DomainValidator
+item	FinalProject/URLValidatorCorrect/src/ResultPair.java	/^      public String item;$/;"	f	class:ResultPair
+item	FinalProject/URLValidatorInCorrect/src/ResultPair.java	/^      public String item;$/;"	f	class:ResultPair
+item	projects/kollr/FinalProject/URLValidatorCorrect/src/ResultPair.java	/^      public String item;$/;"	f	class:ResultPair
+item	projects/kollr/FinalProject/URLValidatorInCorrect/src/ResultPair.java	/^      public String item;$/;"	f	class:ResultPair
+keepsTrailingDot	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        private static boolean keepsTrailingDot() {$/;"	m	class:DomainValidator.IDNBUGHOLDER	file:
+keepsTrailingDot	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        private static boolean keepsTrailingDot() {$/;"	m	class:DomainValidator.IDNBUGHOLDER	file:
+keepsTrailingDot	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^        private static boolean keepsTrailingDot() {$/;"	m	class:DomainValidator.IDNBUGHOLDER	file:
+keepsTrailingDot	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^        private static boolean keepsTrailingDot() {$/;"	m	class:DomainValidator.IDNBUGHOLDER	file:
+kingdomCards	dominion/dominion.c	/^int* kingdomCards(int k1, int k2, int k3, int k4, int k5, int k6, int k7,$/;"	f
+kingdomCards	projects/kollr/dominion/dominion.c	/^int* kingdomCards(int k1, int k2, int k3, int k4, int k5, int k6, int k7,$/;"	f
+kingdomCards	projects/roberwen/dominion/dominion.c	/^int* kingdomCards(int k1, int k2, int k3, int k4, int k5, int k6, int k7,$/;"	f
+main	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   public static void main(String[] argv) {$/;"	m	class:UrlValidatorTest
+main	dominion/badTestDrawCard.c	/^int main () {$/;"	f
+main	dominion/betterTestDrawCard.c	/^int main () {$/;"	f
+main	dominion/playdom.c	/^int main (int argc, char** argv) {$/;"	f
+main	dominion/player.c	/^int main(int argc, char* argv[]) {$/;"	f
+main	dominion/rt.c	/^int main(int argc, char** argv) {$/;"	f
+main	dominion/supplyTest.c	/^int main () {$/;"	f
+main	dominion/testBuyCard.c	/^int main () {$/;"	f
+main	dominion/testDrawCard.c	/^int main () {$/;"	f
+main	dominion/testInit.c	/^int main (int argc, char** argv) {$/;"	f
+main	dominion/testShuffle.c	/^int main () {$/;"	f
+main	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   public static void main(String[] argv) {$/;"	m	class:UrlValidatorTest
+main	projects/kollr/dominion/badTestDrawCard.c	/^int main () {$/;"	f
+main	projects/kollr/dominion/betterTestDrawCard.c	/^int main () {$/;"	f
+main	projects/kollr/dominion/playdom.c	/^int main (int argc, char** argv) {$/;"	f
+main	projects/kollr/dominion/player.c	/^int main(int argc, char* argv[]) {$/;"	f
+main	projects/kollr/dominion/randomtestadventurer.c	/^int main() {$/;"	f
+main	projects/kollr/dominion/randomtestcard1.c	/^int main() {$/;"	f
+main	projects/kollr/dominion/randomtestcard2.c	/^int main() {$/;"	f
+main	projects/kollr/dominion/rt.c	/^int main(int argc, char** argv) {$/;"	f
+main	projects/kollr/dominion/supplyTest.c	/^int main () {$/;"	f
+main	projects/kollr/dominion/testBuyCard.c	/^int main () {$/;"	f
+main	projects/kollr/dominion/testDrawCard.c	/^int main () {$/;"	f
+main	projects/kollr/dominion/testInit.c	/^int main (int argc, char** argv) {$/;"	f
+main	projects/kollr/dominion/testShuffle.c	/^int main () {$/;"	f
+main	projects/roberwen/dominion/badTestDrawCard.c	/^int main () {$/;"	f
+main	projects/roberwen/dominion/betterTestDrawCard.c	/^int main () {$/;"	f
+main	projects/roberwen/dominion/playdom.c	/^int main (int argc, char** argv) {$/;"	f
+main	projects/roberwen/dominion/player.c	/^int main(int argc, char* argv[]) {$/;"	f
+main	projects/roberwen/dominion/rt.c	/^int main(int argc, char** argv) {$/;"	f
+main	projects/roberwen/dominion/supplyTest.c	/^int main () {$/;"	f
+main	projects/roberwen/dominion/testBuyCard.c	/^int main () {$/;"	f
+main	projects/roberwen/dominion/testDrawCard.c	/^int main () {$/;"	f
+main	projects/roberwen/dominion/testInit.c	/^int main (int argc, char** argv) {$/;"	f
+main	projects/roberwen/dominion/testShuffle.c	/^int main () {$/;"	f
+main2	dominion/player.c	/^int main2(int argc, char *argv[]) {$/;"	f
+main2	projects/kollr/dominion/player.c	/^int main2(int argc, char *argv[]) {$/;"	f
+main2	projects/roberwen/dominion/player.c	/^int main2(int argc, char *argv[]) {$/;"	f
+match	FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    public String[] match(String value) {$/;"	m	class:RegexValidator
+match	FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    public String[] match(String value) {$/;"	m	class:RegexValidator
+match	projects/kollr/FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    public String[] match(String value) {$/;"	m	class:RegexValidator
+match	projects/kollr/FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    public String[] match(String value) {$/;"	m	class:RegexValidator
+matchURL	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    Matcher matchURL(String value) {$/;"	m	class:UrlValidator
+matchURL	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    Matcher matchURL(String value) {$/;"	m	class:UrlValidator
+matchURL	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    Matcher matchURL(String value) {$/;"	m	class:UrlValidator
+matchURL	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    Matcher matchURL(String value) {$/;"	m	class:UrlValidator
+mine	dominion/dominion.h	/^   mine, \/* choice1 is hand# of money to trash, choice2 is supply# of$/;"	e	enum:CARD
+mine	projects/kollr/dominion/dominion.h	/^   mine, \/* choice1 is hand# of money to trash, choice2 is supply# of$/;"	e	enum:CARD
+mine	projects/roberwen/dominion/dominion.h	/^   mine, \/* choice1 is hand# of money to trash, choice2 is supply# of$/;"	e	enum:CARD
+minion	dominion/dominion.h	/^   minion, \/* choice1:  1 = +2 coin, 2 = redraw *\/$/;"	e	enum:CARD
+minion	projects/kollr/dominion/dominion.h	/^   minion, \/* choice1:  1 = +2 coin, 2 = redraw *\/$/;"	e	enum:CARD
+minion	projects/roberwen/dominion/dominion.h	/^   minion, \/* choice1:  1 = +2 coin, 2 = redraw *\/$/;"	e	enum:CARD
+newGame	dominion/dominion.c	/^struct gameState* newGame() {$/;"	f
+newGame	projects/kollr/dominion/dominion.c	/^struct gameState* newGame() {$/;"	f
+newGame	projects/roberwen/dominion/dominion.c	/^struct gameState* newGame() {$/;"	f
+numActions	dominion/dominion.h	/^  int numActions; \/* Starts at 1 each turn *\/$/;"	m	struct:gameState
+numActions	projects/kollr/dominion/dominion.h	/^  int numActions; \/* Starts at 1 each turn *\/$/;"	m	struct:gameState
+numActions	projects/roberwen/dominion/dominion.h	/^  int numActions; \/* Starts at 1 each turn *\/$/;"	m	struct:gameState
+numBuys	dominion/dominion.h	/^  int numBuys; \/* Starts at 1 each turn *\/$/;"	m	struct:gameState
+numBuys	projects/kollr/dominion/dominion.h	/^  int numBuys; \/* Starts at 1 each turn *\/$/;"	m	struct:gameState
+numBuys	projects/roberwen/dominion/dominion.h	/^  int numBuys; \/* Starts at 1 each turn *\/$/;"	m	struct:gameState
+numHandCards	dominion/dominion.c	/^int numHandCards(struct gameState *state) {$/;"	f
+numHandCards	projects/kollr/dominion/dominion.c	/^int numHandCards(struct gameState *state) {$/;"	f
+numHandCards	projects/roberwen/dominion/dominion.c	/^int numHandCards(struct gameState *state) {$/;"	f
+numPlayers	dominion/dominion.h	/^  int numPlayers; \/\/number of players$/;"	m	struct:gameState
+numPlayers	projects/kollr/dominion/dominion.h	/^  int numPlayers; \/\/number of players$/;"	m	struct:gameState
+numPlayers	projects/roberwen/dominion/dominion.h	/^  int numPlayers; \/\/number of players$/;"	m	struct:gameState
+options	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private final long options;$/;"	f	class:UrlValidator	file:
+options	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private final long options;$/;"	f	class:UrlValidator	file:
+options	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private final long options;$/;"	f	class:UrlValidator	file:
+options	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private final long options;$/;"	f	class:UrlValidator	file:
+outpost	dominion/dominion.h	/^   outpost,$/;"	e	enum:CARD
+outpost	projects/kollr/dominion/dominion.h	/^   outpost,$/;"	e	enum:CARD
+outpost	projects/roberwen/dominion/dominion.h	/^   outpost,$/;"	e	enum:CARD
+outpostPlayed	dominion/dominion.h	/^  int outpostPlayed;$/;"	m	struct:gameState
+outpostPlayed	projects/kollr/dominion/dominion.h	/^  int outpostPlayed;$/;"	m	struct:gameState
+outpostPlayed	projects/roberwen/dominion/dominion.h	/^  int outpostPlayed;$/;"	m	struct:gameState
+outpostTurn	dominion/dominion.h	/^  int outpostTurn;$/;"	m	struct:gameState
+outpostTurn	projects/kollr/dominion/dominion.h	/^  int outpostTurn;$/;"	m	struct:gameState
+outpostTurn	projects/roberwen/dominion/dominion.h	/^  int outpostTurn;$/;"	m	struct:gameState
+patterns	FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    private final Pattern[] patterns;$/;"	f	class:RegexValidator	file:
+patterns	FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    private final Pattern[] patterns;$/;"	f	class:RegexValidator	file:
+patterns	projects/kollr/FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    private final Pattern[] patterns;$/;"	f	class:RegexValidator	file:
+patterns	projects/kollr/FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    private final Pattern[] patterns;$/;"	f	class:RegexValidator	file:
+phase	dominion/dominion.h	/^  int phase;$/;"	m	struct:gameState
+phase	projects/kollr/dominion/dominion.h	/^  int phase;$/;"	m	struct:gameState
+phase	projects/roberwen/dominion/dominion.h	/^  int phase;$/;"	m	struct:gameState
+phaseNumToName	dominion/interface.c	/^void phaseNumToName(int phase, char *name) {$/;"	f
+phaseNumToName	projects/kollr/dominion/interface.c	/^void phaseNumToName(int phase, char *name) {$/;"	f
+phaseNumToName	projects/roberwen/dominion/interface.c	/^void phaseNumToName(int phase, char *name) {$/;"	f
+playCard	dominion/dominion.c	/^int playCard(int handPos, int choice1, int choice2, int choice3, struct gameState *state) $/;"	f
+playCard	projects/kollr/dominion/dominion.c	/^int playCard(int handPos, int choice1, int choice2, int choice3, struct gameState *state) $/;"	f
+playCard	projects/roberwen/dominion/dominion.c	/^int playCard(int handPos, int choice1, int choice2, int choice3, struct gameState *state) $/;"	f
+playedCardCount	dominion/dominion.h	/^  int playedCardCount;$/;"	m	struct:gameState
+playedCardCount	projects/kollr/dominion/dominion.h	/^  int playedCardCount;$/;"	m	struct:gameState
+playedCardCount	projects/roberwen/dominion/dominion.h	/^  int playedCardCount;$/;"	m	struct:gameState
+playedCards	dominion/dominion.h	/^  int playedCards[MAX_DECK];$/;"	m	struct:gameState
+playedCards	projects/kollr/dominion/dominion.h	/^  int playedCards[MAX_DECK];$/;"	m	struct:gameState
+playedCards	projects/roberwen/dominion/dominion.h	/^  int playedCards[MAX_DECK];$/;"	m	struct:gameState
+printDeck	dominion/interface.c	/^void printDeck(int player, struct gameState *game) {$/;"	f
+printDeck	projects/kollr/dominion/interface.c	/^void printDeck(int player, struct gameState *game) {$/;"	f
+printDeck	projects/roberwen/dominion/interface.c	/^void printDeck(int player, struct gameState *game) {$/;"	f
+printDiscard	dominion/interface.c	/^void printDiscard(int player, struct gameState *game) {$/;"	f
+printDiscard	projects/kollr/dominion/interface.c	/^void printDiscard(int player, struct gameState *game) {$/;"	f
+printDiscard	projects/roberwen/dominion/interface.c	/^void printDiscard(int player, struct gameState *game) {$/;"	f
+printHand	dominion/interface.c	/^void printHand(int player, struct gameState *game) {$/;"	f
+printHand	projects/kollr/dominion/interface.c	/^void printHand(int player, struct gameState *game) {$/;"	f
+printHand	projects/roberwen/dominion/interface.c	/^void printHand(int player, struct gameState *game) {$/;"	f
+printHelp	dominion/interface.c	/^void printHelp(void) {$/;"	f
+printHelp	projects/kollr/dominion/interface.c	/^void printHelp(void) {$/;"	f
+printHelp	projects/roberwen/dominion/interface.c	/^void printHelp(void) {$/;"	f
+printIndex	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   private final boolean printIndex = false;\/\/print index that indicates current scheme,host,port,path, query test were using.$/;"	f	class:UrlValidatorTest	file:
+printIndex	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   private final boolean printIndex = false;\/\/print index that indicates current scheme,host,port,path, query test were using.$/;"	f	class:UrlValidatorTest	file:
+printPlayed	dominion/interface.c	/^void printPlayed(int player, struct gameState *game) {$/;"	f
+printPlayed	projects/kollr/dominion/interface.c	/^void printPlayed(int player, struct gameState *game) {$/;"	f
+printPlayed	projects/roberwen/dominion/interface.c	/^void printPlayed(int player, struct gameState *game) {$/;"	f
+printScores	dominion/interface.c	/^void printScores(struct gameState *game) {$/;"	f
+printScores	projects/kollr/dominion/interface.c	/^void printScores(struct gameState *game) {$/;"	f
+printScores	projects/roberwen/dominion/interface.c	/^void printScores(struct gameState *game) {$/;"	f
+printState	dominion/interface.c	/^void printState(struct gameState *game) {$/;"	f
+printState	projects/kollr/dominion/interface.c	/^void printState(struct gameState *game) {$/;"	f
+printState	projects/roberwen/dominion/interface.c	/^void printState(struct gameState *game) {$/;"	f
+printStatus	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   private final boolean printStatus = false;$/;"	f	class:UrlValidatorTest	file:
+printStatus	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   private final boolean printStatus = false;$/;"	f	class:UrlValidatorTest	file:
+printSupply	dominion/interface.c	/^void printSupply(struct gameState *game) {$/;"	f
+printSupply	projects/kollr/dominion/interface.c	/^void printSupply(struct gameState *game) {$/;"	f
+printSupply	projects/roberwen/dominion/interface.c	/^void printSupply(struct gameState *game) {$/;"	f
+province	dominion/dominion.h	/^   province,$/;"	e	enum:CARD
+province	projects/kollr/dominion/dominion.h	/^   province,$/;"	e	enum:CARD
+province	projects/roberwen/dominion/dominion.h	/^   province,$/;"	e	enum:CARD
+remodel	dominion/dominion.h	/^   remodel, \/* choice1 is hand# of card to remodel, choice2 is supply# *\/$/;"	e	enum:CARD
+remodel	projects/kollr/dominion/dominion.h	/^   remodel, \/* choice1 is hand# of card to remodel, choice2 is supply# *\/$/;"	e	enum:CARD
+remodel	projects/roberwen/dominion/dominion.h	/^   remodel, \/* choice1 is hand# of card to remodel, choice2 is supply# *\/$/;"	e	enum:CARD
+salvager	dominion/dominion.h	/^   salvager, \/* choice1 = hand# to trash *\/$/;"	e	enum:CARD
+salvager	projects/kollr/dominion/dominion.h	/^   salvager, \/* choice1 = hand# to trash *\/$/;"	e	enum:CARD
+salvager	projects/roberwen/dominion/dominion.h	/^   salvager, \/* choice1 = hand# to trash *\/$/;"	e	enum:CARD
+scoreFor	dominion/dominion.c	/^int scoreFor (int player, struct gameState *state) {$/;"	f
+scoreFor	projects/kollr/dominion/dominion.c	/^int scoreFor (int player, struct gameState *state) {$/;"	f
+scoreFor	projects/roberwen/dominion/dominion.c	/^int scoreFor (int player, struct gameState *state) {$/;"	f
+sea_hag	dominion/dominion.h	/^   sea_hag,$/;"	e	enum:CARD
+sea_hag	projects/kollr/dominion/dominion.h	/^   sea_hag,$/;"	e	enum:CARD
+sea_hag	projects/roberwen/dominion/dominion.h	/^   sea_hag,$/;"	e	enum:CARD
+seed	dominion/rngs.c	/^static long seed[STREAMS] = {DEFAULT};  \/* current state of each stream   *\/$/;"	v	file:
+seed	projects/kollr/dominion/rngs.c	/^static long seed[STREAMS] = {DEFAULT};  \/* current state of each stream   *\/$/;"	v	file:
+seed	projects/roberwen/dominion/rngs.c	/^static long seed[STREAMS] = {DEFAULT};  \/* current state of each stream   *\/$/;"	v	file:
+selectKingdomCards	dominion/interface.c	/^void selectKingdomCards(int randomSeed, int kingCards[NUM_K_CARDS]) {$/;"	f
+selectKingdomCards	projects/kollr/dominion/interface.c	/^void selectKingdomCards(int randomSeed, int kingCards[NUM_K_CARDS]) {$/;"	f
+selectKingdomCards	projects/roberwen/dominion/interface.c	/^void selectKingdomCards(int randomSeed, int kingCards[NUM_K_CARDS]) {$/;"	f
+serialVersionUID	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final long serialVersionUID = -4407125112880174009L;$/;"	f	class:DomainValidator	file:
+serialVersionUID	FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    private static final long serialVersionUID = -919201640201914789L;$/;"	f	class:InetAddressValidator	file:
+serialVersionUID	FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    private static final long serialVersionUID = -8832409930574867162L;$/;"	f	class:RegexValidator	file:
+serialVersionUID	FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final long serialVersionUID = 7557161713937335013L;$/;"	f	class:UrlValidator	file:
+serialVersionUID	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final long serialVersionUID = -4407125112880174009L;$/;"	f	class:DomainValidator	file:
+serialVersionUID	FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    private static final long serialVersionUID = -919201640201914789L;$/;"	f	class:InetAddressValidator	file:
+serialVersionUID	FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    private static final long serialVersionUID = -8832409930574867162L;$/;"	f	class:RegexValidator	file:
+serialVersionUID	FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final long serialVersionUID = 7557161713937335013L;$/;"	f	class:UrlValidator	file:
+serialVersionUID	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    private static final long serialVersionUID = -4407125112880174009L;$/;"	f	class:DomainValidator	file:
+serialVersionUID	projects/kollr/FinalProject/URLValidatorCorrect/src/InetAddressValidator.java	/^    private static final long serialVersionUID = -919201640201914789L;$/;"	f	class:InetAddressValidator	file:
+serialVersionUID	projects/kollr/FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    private static final long serialVersionUID = -8832409930574867162L;$/;"	f	class:RegexValidator	file:
+serialVersionUID	projects/kollr/FinalProject/URLValidatorCorrect/src/UrlValidator.java	/^    private static final long serialVersionUID = 7557161713937335013L;$/;"	f	class:UrlValidator	file:
+serialVersionUID	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    private static final long serialVersionUID = -4407125112880174009L;$/;"	f	class:DomainValidator	file:
+serialVersionUID	projects/kollr/FinalProject/URLValidatorInCorrect/src/InetAddressValidator.java	/^    private static final long serialVersionUID = -919201640201914789L;$/;"	f	class:InetAddressValidator	file:
+serialVersionUID	projects/kollr/FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    private static final long serialVersionUID = -8832409930574867162L;$/;"	f	class:RegexValidator	file:
+serialVersionUID	projects/kollr/FinalProject/URLValidatorInCorrect/src/UrlValidator.java	/^    private static final long serialVersionUID = 7557161713937335013L;$/;"	f	class:UrlValidator	file:
+setUp	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^protected void setUp() {$/;"	m	class:UrlValidatorTest
+setUp	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^protected void setUp() {$/;"	m	class:UrlValidatorTest
+shuffle	dominion/dominion.c	/^int shuffle(int player, struct gameState *state) {$/;"	f
+shuffle	projects/kollr/dominion/dominion.c	/^int shuffle(int player, struct gameState *state) {$/;"	f
+shuffle	projects/roberwen/dominion/dominion.c	/^int shuffle(int player, struct gameState *state) {$/;"	f
+silver	dominion/dominion.h	/^   silver,$/;"	e	enum:CARD
+silver	projects/kollr/dominion/dominion.h	/^   silver,$/;"	e	enum:CARD
+silver	projects/roberwen/dominion/dominion.h	/^   silver,$/;"	e	enum:CARD
+smithy	dominion/dominion.h	/^   smithy,$/;"	e	enum:CARD
+smithy	projects/kollr/dominion/dominion.h	/^   smithy,$/;"	e	enum:CARD
+smithy	projects/roberwen/dominion/dominion.h	/^   smithy,$/;"	e	enum:CARD
+smithyEffect	projects/kollr/dominion/dominion.c	/^void smithyEffect(int currentPlayer, struct gameState *state, int handPos) {$/;"	f
+steward	dominion/dominion.h	/^   steward, \/* choice1: 1 = +2 card, 2 = +2 coin, 3 = trash 2 (choice2,3) *\/$/;"	e	enum:CARD
+steward	projects/kollr/dominion/dominion.h	/^   steward, \/* choice1: 1 = +2 card, 2 = +2 coin, 3 = trash 2 (choice2,3) *\/$/;"	e	enum:CARD
+steward	projects/roberwen/dominion/dominion.h	/^   steward, \/* choice1: 1 = +2 card, 2 = +2 coin, 3 = trash 2 (choice2,3) *\/$/;"	e	enum:CARD
+stewardEffect	projects/kollr/dominion/dominion.c	/^void stewardEffect(int choice1, int choice2, int choice3, int currentPlayer, struct gameState *state, int handPos) {$/;"	f
+stream	dominion/rngs.c	/^static int  stream        = 0;          \/* stream index, 0 is the default *\/$/;"	v	file:
+stream	projects/kollr/dominion/rngs.c	/^static int  stream        = 0;          \/* stream index, 0 is the default *\/$/;"	v	file:
+stream	projects/roberwen/dominion/rngs.c	/^static int  stream        = 0;          \/* stream index, 0 is the default *\/$/;"	v	file:
+success	projects/kollr/dominion/randomtestadventurer.c	/^int success = 1;$/;"	v
+success	projects/kollr/dominion/randomtestcard1.c	/^int success = 1;$/;"	v
+success	projects/kollr/dominion/randomtestcard2.c	/^int success = 1;$/;"	v
+supplyCount	dominion/dominion.c	/^int supplyCount(int card, struct gameState *state) {$/;"	f
+supplyCount	dominion/dominion.h	/^  int supplyCount[treasure_map+1];  \/\/this is the amount of a specific type of card given a specific number.$/;"	m	struct:gameState
+supplyCount	projects/kollr/dominion/dominion.c	/^int supplyCount(int card, struct gameState *state) {$/;"	f
+supplyCount	projects/kollr/dominion/dominion.h	/^  int supplyCount[treasure_map+1];  \/\/this is the amount of a specific type of card given a specific number.$/;"	m	struct:gameState
+supplyCount	projects/roberwen/dominion/dominion.c	/^int supplyCount(int card, struct gameState *state) {$/;"	f
+supplyCount	projects/roberwen/dominion/dominion.h	/^  int supplyCount[treasure_map+1];  \/\/this is the amount of a specific type of card given a specific number.$/;"	m	struct:gameState
+test	projects/kollr/dominion/randomtestadventurer.c	/^void test(int i1, int i2) {$/;"	f
+test	projects/kollr/dominion/randomtestcard1.c	/^void test(int i1, int i2) {$/;"	f
+test	projects/kollr/dominion/randomtestcard2.c	/^void test(int i1, int i2) {$/;"	f
+testIsValid	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   public void testIsValid() {$/;"	m	class:UrlValidatorTest
+testIsValid	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   public void testIsValid(Object[] testObjects, long allowAllSchemes) {$/;"	m	class:UrlValidatorTest
+testIsValid	FinalProject/URLValidatorInCorrect/test/UrlValidatorTest.java	/^   public void testIsValid()$/;"	m	class:UrlValidatorTest
+testIsValid	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   public void testIsValid() {$/;"	m	class:UrlValidatorTest
+testIsValid	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   public void testIsValid(Object[] testObjects, long allowAllSchemes) {$/;"	m	class:UrlValidatorTest
+testIsValid	projects/kollr/FinalProject/URLValidatorInCorrect/test/UrlValidatorTest.java	/^   public void testIsValid()$/;"	m	class:UrlValidatorTest
+testIsValidScheme	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   public void testIsValidScheme() {$/;"	m	class:UrlValidatorTest
+testIsValidScheme	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   public void testIsValidScheme() {$/;"	m	class:UrlValidatorTest
+testManualTest	FinalProject/URLValidatorInCorrect/test/UrlValidatorTest.java	/^   public void testManualTest()$/;"	m	class:UrlValidatorTest
+testManualTest	projects/kollr/FinalProject/URLValidatorInCorrect/test/UrlValidatorTest.java	/^   public void testManualTest()$/;"	m	class:UrlValidatorTest
+testPartsIndex	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   int[] testPartsIndex = {0, 0, 0, 0, 0};$/;"	f	class:UrlValidatorTest
+testPartsIndex	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   int[] testPartsIndex = {0, 0, 0, 0, 0};$/;"	f	class:UrlValidatorTest
+testPartsIndextoString	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   private String testPartsIndextoString() {$/;"	m	class:UrlValidatorTest	file:
+testPartsIndextoString	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   private String testPartsIndextoString() {$/;"	m	class:UrlValidatorTest	file:
+testPath	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   ResultPair[] testPath = {new ResultPair("\/test1", true),$/;"	f	class:UrlValidatorTest
+testPath	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   ResultPair[] testPath = {new ResultPair("\/test1", true),$/;"	f	class:UrlValidatorTest
+testScheme	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   ResultPair[] testScheme = {new ResultPair("http", true),$/;"	f	class:UrlValidatorTest
+testScheme	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   ResultPair[] testScheme = {new ResultPair("http", true),$/;"	f	class:UrlValidatorTest
+testUrlAuthority	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   ResultPair[] testUrlAuthority = {new ResultPair("www.google.com", true),$/;"	f	class:UrlValidatorTest
+testUrlAuthority	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   ResultPair[] testUrlAuthority = {new ResultPair("www.google.com", true),$/;"	f	class:UrlValidatorTest
+testUrlParts	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   Object[] testUrlParts = {testUrlScheme, testUrlAuthority, testUrlPort, testPath, testUrlQuery};$/;"	f	class:UrlValidatorTest
+testUrlParts	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   Object[] testUrlParts = {testUrlScheme, testUrlAuthority, testUrlPort, testPath, testUrlQuery};$/;"	f	class:UrlValidatorTest
+testUrlPartsOptions	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   Object[] testUrlPartsOptions = {testUrlScheme, testUrlAuthority, testUrlPort, testUrlPathOptions, testUrlQuery};$/;"	f	class:UrlValidatorTest
+testUrlPartsOptions	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   Object[] testUrlPartsOptions = {testUrlScheme, testUrlAuthority, testUrlPort, testUrlPathOptions, testUrlQuery};$/;"	f	class:UrlValidatorTest
+testUrlPathOptions	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   ResultPair[] testUrlPathOptions = {new ResultPair("\/test1", true),$/;"	f	class:UrlValidatorTest
+testUrlPathOptions	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   ResultPair[] testUrlPathOptions = {new ResultPair("\/test1", true),$/;"	f	class:UrlValidatorTest
+testUrlPort	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   ResultPair[] testUrlPort = {new ResultPair(":80", true),$/;"	f	class:UrlValidatorTest
+testUrlPort	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   ResultPair[] testUrlPort = {new ResultPair(":80", true),$/;"	f	class:UrlValidatorTest
+testUrlQuery	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   ResultPair[] testUrlQuery = {new ResultPair("?action=view", true),$/;"	f	class:UrlValidatorTest
+testUrlQuery	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   ResultPair[] testUrlQuery = {new ResultPair("?action=view", true),$/;"	f	class:UrlValidatorTest
+testUrlScheme	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   ResultPair[] testUrlScheme = {new ResultPair("http:\/\/", true),$/;"	f	class:UrlValidatorTest
+testUrlScheme	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   ResultPair[] testUrlScheme = {new ResultPair("http:\/\/", true),$/;"	f	class:UrlValidatorTest
+testValidateUrl	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   public void testValidateUrl() {$/;"	m	class:UrlValidatorTest
+testValidateUrl	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   public void testValidateUrl() {$/;"	m	class:UrlValidatorTest
+testValidator202	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   public void testValidator202() {$/;"	m	class:UrlValidatorTest
+testValidator202	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   public void testValidator202() {$/;"	m	class:UrlValidatorTest
+testValidator204	FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   public void testValidator204() {$/;"	m	class:UrlValidatorTest
+testValidator204	projects/kollr/FinalProject/URLValidatorCorrect/test/UrlValidatorTest.java	/^   public void testValidator204() {$/;"	m	class:UrlValidatorTest
+testYourFirstPartition	FinalProject/URLValidatorInCorrect/test/UrlValidatorTest.java	/^   public void testYourFirstPartition()$/;"	m	class:UrlValidatorTest
+testYourFirstPartition	projects/kollr/FinalProject/URLValidatorInCorrect/test/UrlValidatorTest.java	/^   public void testYourFirstPartition()$/;"	m	class:UrlValidatorTest
+testYourSecondPartition	FinalProject/URLValidatorInCorrect/test/UrlValidatorTest.java	/^   public void testYourSecondPartition(){$/;"	m	class:UrlValidatorTest
+testYourSecondPartition	projects/kollr/FinalProject/URLValidatorInCorrect/test/UrlValidatorTest.java	/^   public void testYourSecondPartition(){$/;"	m	class:UrlValidatorTest
+toString	FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    public String toString() {$/;"	m	class:RegexValidator
+toString	FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    public String toString() {$/;"	m	class:RegexValidator
+toString	projects/kollr/FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    public String toString() {$/;"	m	class:RegexValidator
+toString	projects/kollr/FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    public String toString() {$/;"	m	class:RegexValidator
+treasure_map	dominion/dominion.h	/^   treasure_map$/;"	e	enum:CARD
+treasure_map	projects/kollr/dominion/dominion.h	/^   treasure_map$/;"	e	enum:CARD
+treasure_map	projects/roberwen/dominion/dominion.h	/^   treasure_map$/;"	e	enum:CARD
+tribute	dominion/dominion.h	/^   tribute,$/;"	e	enum:CARD
+tribute	projects/kollr/dominion/dominion.h	/^   tribute,$/;"	e	enum:CARD
+tribute	projects/roberwen/dominion/dominion.h	/^   tribute,$/;"	e	enum:CARD
+unicodeToASCII	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    static String unicodeToASCII(String input) {$/;"	m	class:DomainValidator
+unicodeToASCII	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    static String unicodeToASCII(String input) {$/;"	m	class:DomainValidator
+unicodeToASCII	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    static String unicodeToASCII(String input) {$/;"	m	class:DomainValidator
+unicodeToASCII	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    static String unicodeToASCII(String input) {$/;"	m	class:DomainValidator
+updateCoins	dominion/dominion.c	/^int updateCoins(int player, struct gameState *state, int bonus)$/;"	f
+updateCoins	projects/kollr/dominion/dominion.c	/^int updateCoins(int player, struct gameState *state, int bonus)$/;"	f
+updateCoins	projects/roberwen/dominion/dominion.c	/^int updateCoins(int player, struct gameState *state, int bonus)$/;"	f
+updateTLDOverride	FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public static synchronized void updateTLDOverride(ArrayType table, String [] tlds) {$/;"	m	class:DomainValidator
+updateTLDOverride	FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public static synchronized void updateTLDOverride(ArrayType table, String [] tlds) {$/;"	m	class:DomainValidator
+updateTLDOverride	projects/kollr/FinalProject/URLValidatorCorrect/src/DomainValidator.java	/^    public static synchronized void updateTLDOverride(ArrayType table, String [] tlds) {$/;"	m	class:DomainValidator
+updateTLDOverride	projects/kollr/FinalProject/URLValidatorInCorrect/src/DomainValidator.java	/^    public static synchronized void updateTLDOverride(ArrayType table, String [] tlds) {$/;"	m	class:DomainValidator
+valid	FinalProject/URLValidatorCorrect/src/ResultPair.java	/^      public boolean valid;$/;"	f	class:ResultPair
+valid	FinalProject/URLValidatorInCorrect/src/ResultPair.java	/^      public boolean valid;$/;"	f	class:ResultPair
+valid	projects/kollr/FinalProject/URLValidatorCorrect/src/ResultPair.java	/^      public boolean valid;$/;"	f	class:ResultPair
+valid	projects/kollr/FinalProject/URLValidatorInCorrect/src/ResultPair.java	/^      public boolean valid;$/;"	f	class:ResultPair
+validate	FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    public String validate(String value) {$/;"	m	class:RegexValidator
+validate	FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    public String validate(String value) {$/;"	m	class:RegexValidator
+validate	projects/kollr/FinalProject/URLValidatorCorrect/src/RegexValidator.java	/^    public String validate(String value) {$/;"	m	class:RegexValidator
+validate	projects/kollr/FinalProject/URLValidatorInCorrect/src/RegexValidator.java	/^    public String validate(String value) {$/;"	m	class:RegexValidator
+village	dominion/dominion.h	/^   village,$/;"	e	enum:CARD
+village	projects/kollr/dominion/dominion.h	/^   village,$/;"	e	enum:CARD
+village	projects/roberwen/dominion/dominion.h	/^   village,$/;"	e	enum:CARD
+villageEffect	projects/kollr/dominion/dominion.c	/^void villageEffect(int currentPlayer, struct gameState *state, int handPos) {$/;"	f
+whoseTurn	dominion/dominion.c	/^int whoseTurn(struct gameState *state) {$/;"	f
+whoseTurn	dominion/dominion.h	/^  int whoseTurn;$/;"	m	struct:gameState
+whoseTurn	projects/kollr/dominion/dominion.c	/^int whoseTurn(struct gameState *state) {$/;"	f
+whoseTurn	projects/kollr/dominion/dominion.h	/^  int whoseTurn;$/;"	m	struct:gameState
+whoseTurn	projects/roberwen/dominion/dominion.c	/^int whoseTurn(struct gameState *state) {$/;"	f
+whoseTurn	projects/roberwen/dominion/dominion.h	/^  int whoseTurn;$/;"	m	struct:gameState

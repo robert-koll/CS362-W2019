@@ -8,10 +8,10 @@ import junit.framework.TestCase;
 
 
 
-public class UrlValidatorTest extends TestCase {
+public class UrlValidatorTest1 extends TestCase {
 
 
-   public UrlValidatorTest(String testName) {
+   public UrlValidatorTest1(String testName) {
       super(testName);
    }
 
